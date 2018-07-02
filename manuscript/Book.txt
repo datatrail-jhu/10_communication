@@ -1,0 +1,10 @@
+# 00_types.md
+# 01_reports.md
+# 02_presentations.md
+# 03_general.md
+# 04_technical.md
+# 05_blogpost.md
+# 06_meetings.md
+# 07_one_on_one.md
+# 08_notebook.md
+# 09_graphs.md
