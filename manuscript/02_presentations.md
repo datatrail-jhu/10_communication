@@ -95,6 +95,10 @@ Finally, be yourself. If you naturally like to tell jokes, tell jokes during you
 
 ![Presentation Tips](images/02_presentations/02_communication_presentations-12.png)
 
+Finally, when presenting it's important to remember that **you've seen the data and figures you're presenting many times, but your audience has not**. They'll need time to get up to speed! Thus, it's important to always introduce your axes (tell your audience what is on the x-axis and what is on the y-axis), explain the colors on your plot, *and* walk the audience through the figure you're presenting.
+
+![Explain Your Figures](images/02_presentations/02_communication_presentations-13.png)
+
 ### Practice 
 
 Most people are hesitant when it comes to speaking. They're nervous about getting up in front of a crowd. If you find yourself being nervous to make a data science presentation, know that you're not alone.
@@ -105,7 +109,7 @@ In addition to limiting your nerves, practicing will help you figure out the bes
 
 The further along you are in your career, the less you will likely have to practice before presentations. However, as you get started, practicing is the best preparation for giving a talk!
 
-![Practice. Practice. Practice.](images/02_presentations/02_communication_presentations-13.png)
+![Practice. Practice. Practice.](images/02_presentations/02_communication_presentations-14.png)
 
 #### Be Prepared
 
@@ -113,13 +117,13 @@ The day of your presentation, things may go wrong. Power goes out, projectors do
 
 To avoid any big issues, it's best to bring a copy of your talk on a USB drive, carry any adapters you may need should you have to (or choose to) present from your own computer. Don't expect the location to have the adapter you need. And, be sure your phone is on silent. After that, just roll with anything that goes wrong. The audience will be forgiving, as they all know that technology can sometimes act unexpectedly.
 
-![Prepare & then roll with the punches](images/02_presentations/02_communication_presentations-14.png)
+![Prepare & then roll with the punches](images/02_presentations/02_communication_presentations-15.png)
   
 ### Handling Questions  
 
 After your presentation, there may be time allotted for the audience to ask questions. When answering questions, always take a little bit of time to pause and think about the question before answering. In fact, it's often helpful to repeat the question asked of you back to the audience. This ensures that the entire room has heard the question and gives you some time to think. If you need more time, remember, silence is ok! Finally, if you don't know an answer, it's ok to say "I don't know." You should never make up an answer because you're afraid of saying "I don't know."
 
-![Q&A Tips](images/02_presentations/02_communication_presentations-15.png)
+![Q&A Tips](images/02_presentations/02_communication_presentations-16.png)
 
 ### Example Presentation: APIs
 
@@ -133,7 +137,7 @@ In the introduction, Lucy expresses her excitement and gives her audience an out
 * How are APIs accessed from R
 * Case studies.
 
-![Outline slide](images/02_presentations/02_communication_presentations-17.png)
+![Outline slide](images/02_presentations/02_communication_presentations-18.png)
 
 We didn't discuss this above; however, a general rule of thumb is that **three main topics is about the most you should include in a talk**, as humans' attention spans are not very long. Lucy nailed this one with exactly three main topics to discuss, all of which tie together into a story about how to get information from Web APIs!
 
@@ -143,15 +147,15 @@ As Lucy dives into the content of her talk, she follows many of the best practic
 
 Lucy uses large fonts and colors that can be distinguished by anyone in the audience and that present well. As a result, everyone in the room, no matter where there seat was, was able to learn and be entertained.
 
-![API slide with large font and good colors](images/02_presentations/02_communication_presentations-18.png)
+![API slide with large font and good colors](images/02_presentations/02_communication_presentations-19.png)
 
 Additionally, Lucy uses effective highlighting of text using different colors. Here, the parts of the text that Lucy wants the audience to focus on are in a brighter blue and a brighter green! Also note that there is not a lot of blank space on the slides.
 
-[Text highlighting helps focus users' eyes on what's important](images/02_presentations/02_communication_presentations-19.png)
+[Text highlighting helps focus users' eyes on what's important](images/02_presentations/02_communication_presentations-20.png)
 
 Additionally, Lucy's slides guided what she was going to say but didn't include all the words on the slides. Here, we see large font and large images but no words. This allowed the audience to listen to what she was saying rather than read all the words on the slides! 
 
-[Limit words and allow the audience to listen](images/02_presentations/02_communication_presentations-20.png)
+[Limit words and allow the audience to listen](images/02_presentations/02_communication_presentations-21.png)
 
 #### Presentation
 
