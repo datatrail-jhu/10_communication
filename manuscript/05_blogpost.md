@@ -4,7 +4,16 @@ Blog posts are pieces of writing that are posted to and shared on the Internet. 
 
 First and foremost, blogs do *not* have to be the same quality as a published article or academic paper. They do not have to be as polished as a published and peer-reviewed paper would have to be. Instead, blog posts can be of different levels of sophistication and varying lengths. They can be short and just provide a single, simple example. Or, they can be longer, more in-depth, and more polished. 
 
-That said, whatever the blog post is about, it should always aim to be **clear** and to **tell a story**. This means that the blog post should always explain in the beginning *why* the reader should care and/or *what* problem is being tackled in the post before diving into the rest of the blog post. Sections of the blog post should be separated using section headers to help organize the post and guide readers along. Finally, the post should end with a conclusion.
+### General Outline
+
+While there are a number of different types of blog posts (we'll get to that in a minute!), there is a general outline that can be followed whenever you're writing a blog post. As with all forms of effective data science communication, a blog post should tell a story. The best blog posts are interesting, clearly-written, and informative. 
+
+The beginning of your blog post should include some introduction as to *why* you've decided to write this topic and any necessary background information. This means that the blog post should always explain in the beginning *why* the reader should care and/or *what* problem is being tackled in the post before diving into the rest of the blog post. After taht, any necessary background information should be included. References/citations to others' work should be included when applicable throughout the post.
+
+After you introduce your topic, the body (or middle) of your blog post shoudld be broken down into sections. Sections of the blog post should be separated using section headers to help organize the post and guide readers along. Generally, shorter sections are better than longer (our attention spans as humans are pretty short after all!). These sections should be ordered in a way that logically tells the story you're trying to tell. If it's an analysis you're writing about, you'd start with a section on the data you used, then talk about your approach, and finally share your results (with good figures!).
+
+Finally, there should be a conclusion section. This should concisely explain the take home message or messages that you want readers to get from your post. 
+
 
 ### Types of Blog Posts
 

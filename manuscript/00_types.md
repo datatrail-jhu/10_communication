@@ -1,3 +1,10 @@
+{
+course-completeness: 100
+course-attempts: 2
+default-quiz-attempts: 2
+default-random-choice-order: true
+}
+
 # Types of Communication
 
 At this point in the Course Set, you've mastered Google Products and version control with GitHub. You've become comfortable working with data in R, understand the importance of tidy data, and know how to visualize your data to better understand it. These are all *incredibly* important skills for a data scientist; however, having these skills is simply not enough. Another crucial skill set for a data scientist to master is that of **communication**. The most interesting results in the world are only the most interesting results in the world if the world knows about them. 
