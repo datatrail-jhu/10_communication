@@ -165,7 +165,7 @@ In addition to having well-designed slides, Lucy was excited as she spoke, was c
 
 Lucy's presentation is an example of a wonderful, educational, and helpful talk; however, her goal wasn't to talk in depth about an analysis she's done. Often, as a data scientist, you'll be tasked with presenting an analysis you've done. To do so, you'll want to use the same guidelines previously discussed in this lesson, but with a focus on **presenting the story of your data analysis**. This includes the plots, analytical approach, and findings of your project. That said, your slides should still be well-designed, you should still tell a story, and your text and colors should all be readable when projected; however, in this case, there are a few additional caveats to consider. 
 
-To discuss these, we'll use an example presentation from Julia Silge, who is a data scientist at Stack Overflow and a wonderful presenter. In 2017 at the rstudio::conf, [Julia Silge](https://juliasilge.com/about/) presented "Text Mining the tidy Way". The [video](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) and [slides](https://speakerd.s3.amazonaws.com/presentations/d6041c6b704d4bf7bfa9d0973ae2d006/rstudio_conf.pdf) from her presentation are available online. This talk discusses the `tidytext` package (which she and [David Robinson](http://varianceexplained.org/about/) developed) and example analyses using this awesome R package. We've discussed this package previously, but if you want a refresher on tidytext, how to work with textual data, and sentiment analysis, [this](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) is a great resource!
+To discuss these, we'll use an example presentation from Julia Silge, who is a data scientist at Stack Overflow and a wonderful presenter. In 2017 at the rstudio::conf, [Julia Silge](https://juliasilge.com/about/) presented "Text Mining the tidy Way". The [video](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) and [visuals](https://speakerd.s3.amazonaws.com/presentations/d6041c6b704d4bf7bfa9d0973ae2d006/rstudio_conf.pdf) from her presentation are available online. This talk discusses the `tidytext` package (which she and [David Robinson](http://varianceexplained.org/about/) developed) and example analyses using this awesome R package. We've discussed this package previously, but if you want a refresher on tidytext, how to work with textual data, and sentiment analysis, [this](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) is a great resource!
 
 As above, we'll highlight a few slides from the talk and discuss considerations to make when presenting a data analysis. 
 
@@ -230,7 +230,7 @@ In this lesson we've discussed the important pieces to designing and prsenting y
 #### Presentation Examples
 
 * [Harnessing the Power of the Web Via R Clients for Web APIs](https://www.lucymcgowan.com/talk/asa_joint_statistical_meeting_2018/), by [Lucy D'Agostino McGowan](https://www.lucymcgowan.com/)
-* Text Mining the tidy Way [video](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) [slides](https://speakerd.s3.amazonaws.com/presentations/d6041c6b704d4bf7bfa9d0973ae2d006/rstudio_conf.pdf), from [Julia Silge](https://juliasilge.com/about/)
+* Text Mining the tidy Way [video](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) [visual](https://speakerd.s3.amazonaws.com/presentations/d6041c6b704d4bf7bfa9d0973ae2d006/rstudio_conf.pdf), from [Julia Silge](https://juliasilge.com/about/)
 
 
 ### Slides and Video
