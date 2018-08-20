@@ -252,7 +252,7 @@ o) .ro
 o) .csv
 
 {choose-answers: 4}
-Which of these does not have to tell a story?
+? Which of these does not have to tell a story?
 
 C) an e-mail
 C) a Slack message
