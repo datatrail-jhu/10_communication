@@ -23,7 +23,7 @@ The title of your report should be as **informative** and as **short** as possib
 
 In your your R Markdown document where you're writing your report, you'll want to include a helpful title. The title of your report can always be edited in the YAML of your R Markdown document.
 
-![Edit title within the YAML of your R Markdown document]()
+![Edit title within the YAML of your R Markdown document](images/01_reports/01_communication_reports-2.png)
 
 #### The Introduction
 
@@ -35,7 +35,7 @@ Finally, this section should include a description of the dataset you're using. 
 
 In your R Markdown document, an H1 header (`#`) can be used to demarcate this new section. Then, Markdown format can be used to include all the necessary information in your Introduction.
 
-![A new section with an H1 header should be included for your Introduction]()
+![A new section with an H1 header should be included for your Introduction](images/01_reports/01_communication_reports-3.png)
 
 #### The Analysis
 
@@ -47,13 +47,13 @@ If the introduction section answered *why* you're writing this report, this sect
 
 In your R Markdown Document, this can be separated using a new H1 header. Throughout your report, additional subheadings can be demarcated using H2 (`##`) headers.
 
-![Multiple Parts of an analysis can be separated using H2 headers]()
+![Multiple Parts of an analysis can be separated using H2 headers](images/01_reports/01_communication_reports-4.png)
 
 Code to complete your analysis would be included here, if appropriate. Not everyone wants to look at the code you ran. For example, your manager may just want a summary of your analysis. In this case you wouldn't include all your code. However, a teammate may want to see all the details.
 
 As above, different parts of your analysis should be separated by different headers and separate code chunks for each part should be included. Text briefly explaining each what is being done in each code chunk should be included before each code chunk. Results from the code chunk can be explained with text after the code chunk and before the next section.
 
-![Code chunks can be included in your report]()
+![Code chunks can be included in your report](images/01_reports/01_communication_reports-5.png)
 
 #### The Results
 
@@ -71,7 +71,7 @@ And, for every plot, best practices should be followed. These were discussed pre
 
 If you want to generate the plot in your R Markdown document (you want the code to be evaluated) but do not want the code *or* its output to be displayed, you would include `include=FALSE` in the code chunk. (Note that `results ="hide"` hides output but displays code, `echo=FALSE` does not show the code but does display any results or output, and `eval=FALSE` displays the code but doesn't actually evaluate it (does not run the code))
 
-![code chunk arguments summary]()
+![code chunk arguments summary](images/01_reports/01_communication_reports-8.png)
 
 Tables of results would also be included in this section. Guidelines previously discussed for good tables should also be followed. To briefly summarize:
 
@@ -79,7 +79,7 @@ Tables of results would also be included in this section. Guidelines previously 
 * The number of digits displayed should be limited
 * Tables should be organized to help guide the viewer to see what is important
 
-![Including good figures and tables and helpful explanations in the results is critical]()
+![Including good figures and tables and helpful explanations in the results is critical](images/01_reports/01_communication_reports-9.png)
 
 #### Conclusions
 
@@ -89,7 +89,7 @@ Typically, figures and tables are not included in this section. Bullet points ca
 
 Be sure not to make this section any longer than is absolutely necessary. 
 
-![Conclusion section should summarize the most important points from your anlalysis]()
+![Conclusion section should summarize the most important points from your anlalysis](images/01_reports/01_communication_reports-11.png)
 
 #### References
 
@@ -101,7 +101,7 @@ At the very least, it's helpful to include hyperlinks in Markdown format to othe
 
 For example, if we mentioned in our report that "All analyses were carried out in R," we'd want to hyper link to the R Project's website, so that anyone unfamiliar with R could click on this link and learn more
 
-![Including hyperlinks in reports helps readers learn more and gives credit]()
+![Including hyperlinks in reports helps readers learn more and gives credit](images/01_reports/01_communication_reports-12.png)
 
 ##### References
 
@@ -109,61 +109,61 @@ However, when linking to scholarly articles, the best approach is to use an exte
 
 For example, consider our general report where within the Data Analysis header of our Methods portion we stat that "We've used `ggplot2` to generate all figures in this report." In that case, we'd want to include a reference to `ggplot2`!
 
-![Where we want to include the reference in our report]()
+![Where we want to include the reference in our report](images/01_reports/01_communication_reports-13.png)
 
 To do so we'd first go to Google Scholar at [scholar.google.com](https://scholar.google.com). Google Scholar contains scholarly articles across many different fields. References to articles, theses, books, abstracts, and academic journals are all searchable on Google Scholar. In the search box type 'ggplot2' and then click the magnifying glass to search Google Scholar.
 
-![Search through Google Scholar]()
+![Search through Google Scholar](images/01_reports/01_communication_reports-14.png)
 
 When we searched, the first link references the ggplot2 book. This is the reference we want to include in our R Markdown document. To do so, we'll first save it to our Google Scholar library by clicking on the "star" icon.
 
-![Click on the Favorites (star) icon]()
+![Click on the Favorites (star) icon](images/01_reports/01_communication_reports-16.png)
 
 You can then go to your library by clicking on "My library" in the top right-hand corner. 
 
-![Click on "My library"]()
+![Click on "My library"](images/01_reports/01_communication_reports-17.png)
 
 Any entries in your library will be listed here. Click on the references you'd like to include in your document using the checkmarks at left (here, we'll only select the `ggplot2` reference). Then click on the download icon and select "BibTeX" from the dropdown menu.
 
-![Download the citation]()
+![Download the citation](images/01_reports/01_communication_reports-18.png)
 
 The citation(s) selected will then appear in a new window. Copy this text. Note that the first thing within the curly brackets is how we'll refer back to this later in our R Markdown document.
 
-![Copy text for BibTeX citation]()
+![Copy text for BibTeX citation](images/01_reports/01_communication_reports-19.png)
 
 Then, return to RStudio Cloud and click on "File" > "New File" > "Text File".
 
-![Open a new text file]()
+![Open a new text file](images/01_reports/01_communication_reports-20.png)
 
 We'll then want to save this file. Do this by clicking on "File" > "Save As"
 
-![Open Save as window]()
+![Open Save as window](images/01_reports/01_communication_reports-21.png)
 
 We'll save the file as "references.bib." Type that into the File name box. Then click "Save"
 
-![Save file with .bib extension]()
+![Save file with .bib extension](images/01_reports/01_communication_reports-22.png)
 
 Once the file is saved, you'll want to paste in the reference text you previously copied and save the changes to this file.
 
-![add references to this .bib file]()
+![add references to this .bib file](images/01_reports/01_communication_reports-23.png)
 
 You'll then have to specify within your YAML (the top of your R Markdown document) what the name of your bibliography file is using the format you see here:
 
-![add bibliography to YAML]()
+![add bibliography to YAML](images/01_reports/01_communication_reports-24.png)
 
 Note: The .bib file must be in the same directory as your .Rmd file.
 
 Now that our bibliography is set up, we'll add the reference into our document. References use the following format `[@identifier]` They always include square brackets. Within the brackets we specify that it is a reference using the `@` symbol, followed by the identifier specified within our .bib file. Here that identifier is `wickham2016ggplot2`.
 
-![In-line reference]()
+![In-line reference](images/01_reports/01_communication_reports-25.png)
 
 To finalize this document, we'll want to include a header at the end of our R Markdown document, since any references will be automatically added to the end of the Knit document.
 
-![Add # References header to end of the R Markdown document]()
+![Add # References header to end of the R Markdown document](images/01_reports/01_communication_reports-26.png)
 
 Now we're ready to Knit. When we Knit this document, we see our in-line citation and the reference automatically add to the end of the document!
 
-![Knit document shows reference automatically formatted and added]()
+![Knit document shows reference automatically formatted and added](images/01_reports/01_communication_reports-27.png)
 
 While there are a lot of steps in this process, it's important to include references to others' work when applicable and this process will get simpler the more you do it!
 
@@ -198,7 +198,7 @@ In this example, you see the R Markdown document on the left and then, once we k
 
 Specifically we see that, the report itself is pretty short, that only the necessary details are presented, and that everything the reader needs to know is presented clearly. For the purposes of this example there weren't many details in the means of what we did for the analysis in total; however, for most projects you will likely have a slightly longer analysis or fewer results.
 
-![Brief Reports present readers with only the essential information]()
+![Brief Reports present readers with only the essential information](images/01_reports/01_communication_reports-30.png)
 
 ### Full Report
 
@@ -212,7 +212,7 @@ Returning to the steak preference data and the question "How do Americans prefer
 
 While this analysis is simpler than most analyses you'll likely be doing, we're using it as an example to demonstrate that a full report will likely have more explanation and more details than a brief report. There will be more description regarding how the analysis was carried out and likely more tables and figures. Here, we see the full report is similar but goes into more detail and presents more results than the brief report
 
-![Full reports contain more details but still tell a story]()
+![Full reports contain more details but still tell a story](images/01_reports/01_communication_reports-32.png)
 
 Note: The code used to generate these reports can be viewed on RStudio Cloud [here](https://rstudio.cloud/spaces/2721/join?access_code=FJyfB5pL5GXnYTuRjFJD5BO5prpfPiMSf3%2F7OfO3).
 

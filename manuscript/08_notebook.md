@@ -1,7 +1,13 @@
 # How To Keep a Data Science Lab Notebook
 
 
-### 
+### Why Keep a Lab Notebook
+
+- email, GH, Slack, Trello, notes you jot down on pieces of paper you lose
+
+### What to Put in Your Lab Notebook
+
+### When To Update
 
 
 
@@ -18,16 +24,7 @@
 
 
 {choose-answers: 4}
-? When writing a reproducible report that includes Markdown syntax and chunks of R code, what would be the file extension of your report?
-
-C) .Rmd
-o) .R
-o) .r
-o) .rda
-o) .rds
-o) .Rproj
-o) .ro
-o) .csv
+? 
 
 
 {/quiz}
