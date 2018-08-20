@@ -157,9 +157,7 @@ In this lesson we've discussed the basics of one-on-one meetings, how to approac
 
 
 {choose-answers: 4}
-? Consider the following scenario: You've carried out an analysis and presented the results to your collaborator. They are not happy with what you've found and argue that you've got to re-do your analysis until you find what they were expecting. 
-
-What should you do?
+? Consider the following scenario: You've carried out an analysis and presented the results to your collaborator. They are not happy with what you've found and argue that you've got to re-do your analysis until you find what they were expecting. **What should you do?**
 
 C) Agree to double-check your analysis for correctness but explain that you're unwilling to change your results just to get a different result
 C) Respond that you'll look for any mistakes in what you've done but explain that should you not find any mistakes, the results are what they are.
@@ -170,9 +168,7 @@ o) Consider what changes would need to be made so that your results would make y
 o) Tell your collaborator they're an idiot, throw them out of your office, and refuse to work with them anymore.
 
 {choose-answers: 4}
-? Consider the following scenario: After your follow-up meeting, your collaborator sends an email to your bosses misinterpreting the results of your analysis. 
-
-What should you do?
+? Consider the following scenario: After your follow-up meeting, your collaborator sends an email to your bosses misinterpreting the results of your analysis. **What should you do?**
 
 C) Follow-up with your collaborator directly, explaining the misunderstanding and asking them if they'd like to meet to discuss the results again, and asking them to correct the record.
 C) Discuss the misunderstanding with your collaborator and give them the chance to correct their mistake. If they don't, consider further action. 
@@ -194,9 +190,7 @@ o) Only the person looking for assistance is required to participate, listen, an
 o) It is the responsibillity of the data scientist to state the expectations of who will participate, listen, and learn depending on the meeting
 
 {choose-answers: 4}
-? Consider the following scenario: In the initial meeting, you discussed data that you expected to have in a month. In two months, your collaborator returns and informs you that they lost funding and will no longer be getting that data.
-
-What should you do? 
+? Consider the following scenario: In the initial meeting, you discussed data that you expected to have in a month. In two months, your collaborator returns and informs you that they lost funding and will no longer be getting that data. **What should you do?**
 
 C) Go back to the drawing board and re-work the data science question to be something that you can answer given the data you do have
 C) Discuss if there are other data that they may have access to that may be helpful. If they do, move forward with the planned analysis
