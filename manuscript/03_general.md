@@ -132,7 +132,7 @@ In this lesson we discussed the approach to and specifics of presenting to a gen
 
 ### Slides and Video
 
-![How To Present to a General Audience](UPDATE)
+![How To Present to a General Audience](https://www.youtube.com/watch?v=E4p0pMd-A7c)
 
 * [Slides](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/edit?usp=sharing)
 

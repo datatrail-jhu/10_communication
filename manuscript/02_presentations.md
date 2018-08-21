@@ -235,7 +235,7 @@ In this lesson we've discussed the important pieces to designing and prsenting y
 
 ### Slides and Video
 
-![How To Give a Presentation](UPDATE LINK)
+![How To Give a Presentation](https://www.youtube.com/watch?v=4ko5XzAXff8)
 
 * [Slides](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/edit?usp=sharing)
 

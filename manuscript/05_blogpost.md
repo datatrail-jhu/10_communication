@@ -162,7 +162,7 @@ For access to blog posts written by R users, check out the following two resourc
 
 ### Slides and Video
 
-![How To Write a Blogpost](UPDATE)
+![How To Write a Blogpost](https://www.youtube.com/watch?v=GEUC06UOSSY)
 
 * [Slides](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/edit?usp=sharing)
 

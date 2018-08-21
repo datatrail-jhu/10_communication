@@ -146,7 +146,7 @@ In this lesson we've discussed the basics of one-on-one meetings, how to approac
 
 ### Slides and Video
 
-![How To Have a One-on-One Meeting](UPDATE)
+![How To Have a One-on-One Meeting](https://www.youtube.com/watch?v=z_Y4IeAGSnU)
 
 * [Slides](https://docs.google.com/presentation/d/1bHq2wLpzhG66K2oTD7ruKJqTWY-LSU3fK4_f2-7s6Iw/edit?usp=sharing)
 

@@ -120,7 +120,7 @@ In this lesson we've covered the basics of participating in and running meetings
 
 ### Slides and Video
 
-![Participating in Meetings](UPDATE)
+![Participating in Meetings](https://www.youtube.com/watch?v=M4jDZrB97As)
 
 * [Slides](https://docs.google.com/presentation/d/16yj4ui-329oiX0Fqk4hZemEx-lw0Z3sw7xPx4hEvh0M/edit?usp=sharing)
 
