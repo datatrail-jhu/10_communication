@@ -7,4 +7,4 @@
 06_meetings.md
 07_one_on_one.md
 08_notebook.md
-# 09_graphs.md
+09_graphs.md
