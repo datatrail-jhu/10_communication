@@ -150,8 +150,8 @@ o) Your audience does not want to know technical details of your presentation
 {choose-answers: 4, points: 3}
 ? Go to Google Slides and develop a presentation that you would present to a technical audience about your Final Project from the last course in this course series. Be sure your slides tell a story, that the number of words on each slide is limited, and that the figures use good colors and text size for presentation. **Paste the viewable link to your slides below**.
 
-! /(.+\/\/docs.google.com\/presentation.+)/i
-
+# ! /(.+\/\/docs.google.com\/presentation.+)/i
+! For now
 
 
 
