@@ -22,7 +22,7 @@ While some of these may seem obvious, it can be hard to be a good citizen within
 
 ### How to Host A Meeting
 
-Sometimes you'll just be a participant in a meeting while other times you may be the one running the meeting. If you find yourself in charge of hosting and running the meeting, there are a number of considerations to take into account while planning the meeting, during the meeting, and after the meeting. A lot of this has been [discussed elsewhere previously](https://twitter.com/gvwilson/status/994553693772099589), but it's important information to cover here as well.
+Sometimes you'll just be a participant in a meeting while other times you may be the one running the meeting. If you find yourself in charge of hosting and running the meeting, there are a number of considerations to take into account while planning the meeting, during the meeting, and after the meeting. A lot of this has been [discussed elsewhere previously](https://twitter.com/gvwilson/status/994553693772099589) and we'll use this twitter thread to guide this lesson, but it's important information to cover here as well.
 
 #### Before the Meeting
 

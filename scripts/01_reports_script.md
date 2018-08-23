@@ -2,7 +2,19 @@ The goal of a written report is to effectively communicate your full analysis to
 
 Every data science report should include the elements you see here. We'll walk through each of these in this lesson, discuss their role in a data science report, and walk through how to generate and format each in an R Markdown document.
 
-The title of your report should be as informative and as short as possible. The title should let readers know what the report is about, but details should be left to the report itself. In your your R Markdown document where you're writing your report, you'll want to include a helpful title. The title of your report can always be edited in the YAML of your R Markdown document.
+The title of your report should be as informative and as short as possible. The title should let readers know what question is being answered in the report and the answer to that question. But, details should be left to the report itself. For example, what if you had completed a project analyzing the NHANES dataset? Which of the following titles would be better?
+
+Well, "Analyzing NHANES" is shorter, but it's not informative at all. Rather "Data from the NHANES study shows that diet is related to overall health" is an informative but concise title 
+
+This title lets readers know that the data science question being asked as to do with diet and health as well as letting readers know that there is a relationship between diet and overall health.
+
+How about another example -- which title is best out of the following?
+
+Let's first talk about which one is the best title. Then we can discuss the issues with the other possible titles. "Improving the Value of Public Genomic Data with Phenotype Prediction" is the best title here. Even if you don't know what genomic data are or what a phenotype is, you know that publicly-available data are going to be used for some type of prediction. And, you know that in this presentation you'll learn about what genomic data and phenotypes are. 
+
+As for the other titles, "Public Data and Prediction", "Using Public Genomic Data", and "Phenotype Prediction is Helpful" are short but not fully informative. They don't tell you what the question and the answer of what will be included in the report are. On the other end of the spectrum, "Sample Genomic Data that Are Available Publicly on the Internet Can Be Used For Prediction of Critical Phenotype Information" tells you the question and the answer but it does so in a very long and windy way. This title is too long and confusing and should be edited before being used in a report. 
+
+In your your R Markdown document where you're writing your report, you'll want to include a helpful title. The title of your report can always be edited in the YAML of your R Markdown document.
 
 After your title, your report should include a brief introduction to your report. This section should include the motivation for your project. Any necessary background information explaining the why you're writing this report would be included here. Additionally, let the readers of your report know explicitly what question you're answering with this analysis. Be as clear and concise as possible. Finally, this section should include a description of the dataset you're using. How many people are included in your dataset? What variables are included? A description of your dataset is a critical (but often overlooked) portion of a good introduction. In your R Markdown document, an H 1 header can be used to demarcate this new section. Then, Markdown format can be used to include all the necessary information in your Introduction.
 
