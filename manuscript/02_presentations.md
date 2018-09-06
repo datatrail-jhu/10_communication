@@ -245,7 +245,7 @@ In this lesson we've discussed the important pieces to designing and prsenting y
 ### How To Give a Presentation quiz
 
 {choose-answers: 4}
-? Which scenario is an example of a presentation that was inspiring?
+?1 Which scenario is an example of a presentation that was inspiring?
 
 C) An audience member listens to a presentation and is then excited to go back and figure out a problem they had been having previously using what they just learned from the presentation
 C) A person present at your presentation is excited about the analysis you presented and emails you to chat in more detail about what you did 
@@ -255,7 +255,7 @@ o) Someone at your presentation falls asleep while listening to you present
 o) Someone at your presentation tells you at the end of your presentation that they do similar work and they think your approach is wrong.
 
 {choose-answers: 4}
-? What should you do if someone asks you a really tough question during the Q&A and you don't know the answer?
+?2 What should you do if someone asks you a really tough question during the Q&A and you don't know the answer?
 
 C) Think about it and then say "I don't know"
 C) Think about it, say "I don't know," and then ask the questioner to chat after to see if they have any interesting ideas!
@@ -265,7 +265,7 @@ o) Just say the first thing that comes to your mind
 o) Panic, shut down, and stand there in awkward silence
 
 {choose-answers: 4}
-? Which is the best color choice for slide design?
+?3 Which of the following is the best color choice for slide design?
 
 C) Dark grey slides with white text
 C) White slides with Black Text
@@ -279,7 +279,7 @@ o) red slides with green text
 o) green slides with red text
 
 {choose-answers: 4}
-? Which of the following is TRUE about presentations?
+?4 Which of the following is TRUE about presentations?
 
 C) Good ones take a while to prepare
 C) They can be nerve-wracking
@@ -289,6 +289,16 @@ o) Technology always works as expected
 o) Colors on your computer always look the same when presented
 o) Small text is fine
 o) The more blank and empty text on slides, the better
+
+?5 TRUE or FALSE: The best presentations are off the cuff and unpracticed.
+
+a) TRUE
+B) FALSE
+
+?5 TRUE or FALSE: The best presentations have been practiced beforehand.
+
+A) TRUE
+b) FALSE
 
 {/quiz}
 

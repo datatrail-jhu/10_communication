@@ -59,7 +59,7 @@ Data scientists often find them in a number of meetings. Meetings can be with te
 
 
 {choose-answers: 4}
-? What do we mean by the fact that these will be opinionated lessons?
+?1 What do we mean by the fact that these will be opinionated lessons?
 
 C) We're going to provide advice and our approach to data science communication, but there are other approaches out there and over time you'll likely adapt to what suits you best 
 C) There are a number of different approaches to data science communication, so we'll provide you with a great start and the basics and you'll adapt over time to what works best for you.
@@ -69,7 +69,7 @@ o) There is little rhyme or reason in data science communication, so we'll barel
 o) There are a number of different approaches to data science communication, but we think there is only one right way, so we'll teach that here and you'll use that going forward.
 
 {choose-answers: 4}
-? What do we mean when we say reports and presentations should "tell a story"?
+?2 What do we mean when we say reports and presentations should "tell a story"?
 
 C) They should have a beginning, middle, and end to effectively communicate what was done in the analysis to the audience.
 C) Presentations and reports should walk the reader through the analysis including details on what question is being asked, how it was answered, and what conclusions can be drawn from the analysis.
@@ -79,7 +79,25 @@ o) Reports and presentations should dive right into conclusions and leave out de
 o) Presentations and reports should include a beginning, middle, and end, but in meetings and blog posts you should only ever talk about the conclusions
 o) Presentations and reports should include a beginning, middle, and end, but in meetings and blog posts you should only ever talk about the question
 
+{choose-answers: 4}
+?3 Which of the following is a written type of data science communication?
 
+C) Blog Posts
+C) Reports
+o) Presentations
+o) Phone calls
+o) Webinars
+o) Texts
+
+{choose-answers: 4}
+?3 Which of the following is delivered as an oral type of data science communication?
+
+C) Presentations
+o) Blog posts
+o) Reports
+o) Texts
+o) Personal Phone Calls
+o) Slack messages
 
 {/quiz}
 

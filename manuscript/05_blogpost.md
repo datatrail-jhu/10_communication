@@ -162,19 +162,21 @@ For access to blog posts written by R users, check out the following two resourc
 
 ### Slides and Video
 
-![How To Write a Blogpost](https://www.youtube.com/watch?v=GEUC06UOSSY)
+![How To Write a Blog Post](https://www.youtube.com/watch?v=GEUC06UOSSY)
 
 * [Slides](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/edit?usp=sharing)
 
 
 {quiz, id: quiz_05_blogpost}
 
-### How To Write a Blogpost quiz
+### How To Write a Blog Post quiz
 
 {choose-answers: 4}
-? If a blog post is a tutorial, how else could you describe that type of blog post?
+?1 If a blog post is a tutorial, how else could you describe that type of blog post?
 
 C) how-to
+C) step-by-step
+C) teaching
 o) descriptive
 o) inferential
 o) announcement
@@ -182,7 +184,7 @@ o) workflow
 o) analysis
 
 {choose-answers: 4}
-? What should you avoid when blogging?
+?2 What should you avoid when blogging?
 
 C) being a jerk
 C) being too-wordy
@@ -193,6 +195,26 @@ o) including an informative title
 o) using section headers
 o) describing what the figures are showing
 o) referencing the work of others
+
+?3 TRUE or FALSE: Examples should not be included in blog posts.
+
+a) TRUE
+B) FALSE
+
+?3 TRUE or FALSE: It's a good idea to include examples in blot posts.
+
+A) TRUE
+b) FALSE
+
+?4 TRUE or FALSE: One goal of an announcement blog post is to announce a resource.
+
+A) TRUE
+b) FALSE
+
+?4 TRUE or FALSE: One goal of an announcement blog post is to announce a tool.
+
+A) TRUE
+b) FALSE
 
 
 {/quiz}

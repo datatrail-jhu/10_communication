@@ -124,6 +124,8 @@ o) orange
 o) yellow
 o) violet
 o) gray
+o) black
+o) white
 
 {choose-answers: 4}
 ? Which of the following is true for a technical audience presentation but *not* for a general audience presentation
@@ -146,6 +148,7 @@ o) Information should only ever be presented at a high-level
 o) Color choice doesn't matter -- feel free to use whatever colors you like best
 o) Font size is a matter of personal preference -- use whatever size you like
 o) Your audience does not want to know technical details of your presentation
+o) Your audeince does not want to know about the math behind your analysis
 
 {points: 3}
 ? Go to Google Slides and develop a presentation that you would present to a technical audience about your Final Project from the last course in this course series. Be sure your slides tell a story, that the number of words on each slide is limited, and that the figures use good colors and text size for presentation. **Paste the viewable link to your slides below**.

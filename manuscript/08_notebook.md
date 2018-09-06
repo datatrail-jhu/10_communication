@@ -200,11 +200,11 @@ In this lesson we discussed why lab notebooks are important, what information sh
 
 ### How To Keep a Data Science Lab Notebook quiz
 
-
 {choose-answers: 4}
 ? How often should you update your electronic lab notebook?
 
 C) daily
+C) at least every day
 C) Each project should have updates for each day you worked on that project
 o) weekly
 o) every minute
@@ -229,6 +229,9 @@ o) it is searchable for when you run into a problem you've seen previously
 ? Which of these is NOT a capability of Benchling?
 
 C) using git for version control
+C) running R code
+C) retrieving information from an API
+C) web scraping
 o) Note-taking
 o) Including plots in entries
 o) including code in entries

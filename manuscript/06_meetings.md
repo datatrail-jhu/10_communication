@@ -135,6 +135,7 @@ In this lesson we've covered the basics of participating in and running meetings
 
 C) keeping notes
 C) being in charge of keeping people on schedule
+C) managing the clock
 o) setting the date & time
 o) deciding on space for the meeting
 o) confirming the space for the meeting has been booked
@@ -146,12 +147,14 @@ o) deciding who should be invited to the meeting
 ? Why is it important to keep minutes?
 
 C) holds people accountable
+C) reminds people later on what they committed to
 C) keeps people who were unable to attend in the loop
 C) acts as an official record for your meetings
 o) forces everyone to attend the meeting
 o) ensures that nobody has to actually attend the meeting
 o) allows meetings to become emails
 o) allows emails to become meetings
+o) minimizes the need for meetings
 
 {choose-answers: 4}
 ? Which of these purposes should be an email and NOT a meeting?
@@ -169,6 +172,7 @@ o) To listen to a presentation on a new topic
 ? When is it ok to go over on your allotted time in a meeting?
 
 C) Never
+C) It never is.
 o) When you're in charge
 o) When what you're saying is important to you
 o) When everyone else in the meeting is also running long

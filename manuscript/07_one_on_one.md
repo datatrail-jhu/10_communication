@@ -183,6 +183,7 @@ o) Do nothing. It likely won't make a difference anyway.
 ? In a consultation or one-on-one meeting, what is the expectation?
 
 C) All parties involved will participate, listen and learn from one another
+C) Everyone at the meeting will participate, listen and learn from one another
 o) All parties involved will participate and listen, but only the data scientist will learn 
 o) All parties involved will participate and listen, but only the person looking for assistance will learn 
 o) Only the data scientist is required to participate, listen, and learn 

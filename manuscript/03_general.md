@@ -157,8 +157,9 @@ o) "R Programming Language"
 {choose-answers: 4}
 ? When presenting to a general audience, what would be the best approach for explaining the analysis you've done?
 
-C) Explain but at a high level
+C) Explain, but at a high level
 C) Include it in your presentation, but don't go into nitty-gritty details
+C) Discuss the analysis, but with limited details included
 o) Don't include in your presentation as to not confuse your audience 
 o) Don't include in your presentation because other information is more important
 o) Include a slide but don't actually talk about it
