@@ -115,7 +115,7 @@ In this lesson we discussed the approach to and specifics of presenting to a tec
 
 
 {choose-answers: 4}
-? On the technical audience presentation slides (found [here](bit.ly/technical_audience)), on slide 146, what color was used for the comparison "NC vs. PC"?
+? On the technical audience presentation slides (found [here](http://bit.ly/technical_audience)), on slide 146, what color was used for the comparison "NC vs. PC"?
 
 C) blue
 m) red
