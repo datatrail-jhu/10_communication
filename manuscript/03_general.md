@@ -142,7 +142,7 @@ In this lesson we discussed the approach to and specifics of presenting to a gen
 ### How To Present to a General Audience quiz
 
 {choose-answers: 4}
-? On the general audience presentation slides (found [here](http://bit.ly/general_audience)), on slide 134, which of these is one of the terms on this outline slide?
+? On the general audience presentation slides (found [here](http://bit.ly/general_audience)){target="_blank"}, on slide 134, which of these is one of the terms on this outline slide?
 
 C) "Useful for future study"
 C) "Easy to Get" 
