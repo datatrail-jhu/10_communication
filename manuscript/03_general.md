@@ -102,7 +102,7 @@ In the middle of the talk, a lot of time is dedicated to teaching the audience t
 
 Note that while results are presented, it's not in great detail. The audience is taught what they need to know before results are presented. This ensures that nobody gets lost.
 
-![Results are presented, but nitty-gritty details are ommitted](images/03_general/03_communication_general-14.png)
+![Results are presented, but nitty-gritty details are omitted](images/03_general/03_communication_general-14.png)
 
 Additionally, in this talk, a motivating question was presented to the audience to fully explain *why* this work was necessary. By motivating the presentation with this question, coming back to it throughout the presentation, and then using the data and analysis presented in this talk to answer the motivating question at the end, the presentation becomes a story.
 
@@ -132,7 +132,7 @@ In this lesson we discussed the approach to and specifics of presenting to a gen
 
 ### Slides and Video
 
-![How To Present to a General Audience](https://www.youtube.com/watch?v=E4p0pMd-A7c)
+![How To Present to a General Audience](https://www.youtube.com/watch?v=wghnojOXEbE)
 
 * [Slides](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/edit?usp=sharing)
 

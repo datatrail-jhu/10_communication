@@ -10,7 +10,7 @@ While there are a number of different types of blog posts (we'll get to that in 
 
 The beginning of your blog post should include some introduction as to *why* you've decided to write this topic and any necessary background information. This means that the blog post should always explain in the beginning *why* the reader should care and/or *what* problem is being tackled in the post before diving into the rest of the blog post. After that, any necessary background information should be included. References/citations to others' work should be included when applicable throughout the post.
 
-After you introduce your topic, the body (or middle) of your blog post shoudld be broken down into sections. Sections of the blog post should be separated using section headers to help organize the post and guide readers along. Generally, shorter sections are better than longer (our attention spans as humans are pretty short after all!). These sections should be ordered in a way that logically tells the story you're trying to tell. If it's an analysis you're writing about, you'd start with a section on the data you used, then talk about your approach, and finally share your results (with good figures!).
+After you introduce your topic, the body (or middle) of your blog post should be broken down into sections. Sections of the blog post should be separated using section headers to help organize the post and guide readers along. Generally, shorter sections are better than longer (our attention spans as humans are pretty short after all!). These sections should be ordered in a way that logically tells the story you're trying to tell. If it's an analysis you're writing about, you'd start with a section on the data you used, then talk about your approach, and finally share your results (with good figures!).
 
 Finally, there should be a conclusion section. This should concisely explain the take home message or messages that you want readers to get from your post. 
 
@@ -43,7 +43,7 @@ This is because in addition to making this announcement Julia also includes what
 
 Specifically, if we look at the section "Who considers themselves part of the Stack Overflow community?" in the post, we see a clear figure with "years of coding experience" on the x-axis and "% who consider themselves part of the Stack Overflow community" on the y-axis. The lines on the graph are colored by gender, with a key for which line is which gender off to the right. Below the figure is a short paragraph explaining in words how readers could interpret the information on this plot. 
 
-This blog post is a great example of an announcment blog post as it:
+This blog post is a great example of an announcement blog post as it:
 
 * Makes the announcement
 * Explains why this information is helpful
@@ -162,7 +162,7 @@ For access to blog posts written by R users, check out the following two resourc
 
 ### Slides and Video
 
-![How To Write a Blog Post](https://www.youtube.com/watch?v=GEUC06UOSSY)
+![How To Write a Blog Post](https://www.youtube.com/watch?v=D1wEuBmKhgs)
 
 * [Slides](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/edit?usp=sharing)
 

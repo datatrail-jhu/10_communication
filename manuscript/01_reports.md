@@ -34,7 +34,7 @@ How about another example -- which title is best out of the following?:
 * Improving the Value of Public Genomic Data with Phenotype Prediction
 * Using Public Genomic Data
 * Phenotype Prediction is Helpful
-* Sample Genomic Data that Are Available Publicly on the Internet Can Be Used For Prediction of Critical Phenotype Inforamtion
+* Sample Genomic Data that Are Available Publicly on the Internet Can Be Used For Prediction of Critical Phenotype Information
 
 Let's first talk about which one *is* the best title. Then we can discuss the issues with the other possible titles. "Improving the Value of Public Genomic Data with Phenotype Prediction" is the best title here. Even if you don't know what genomic data are or what a phenotype is, you know that publicly-available data are going to be used for some type of prediction. And, you know that in this presentation you'll learn about what genomic data and phenotypes are. 
 
@@ -84,7 +84,7 @@ A reminder that all results that for every numeric estimate reported, there shou
 
 And, for every plot, best practices should be followed. These were discussed previously in the data visualization course, but as a general reminder here: 
 
-* colors used on any plot shoould be distinct from one another 
+* colors used on any plot should be distinct from one another 
 * colors should be chosen such that figures are interpretable by individuals who are color-blind
 * all axes and text on figures should be large enough
 * the appropriate plot for your data should be used  
@@ -110,7 +110,7 @@ Typically, figures and tables are not included in this section. Bullet points ca
 
 Be sure not to make this section any longer than is absolutely necessary. 
 
-![Conclusion section should summarize the most important points from your anlalysis](images/01_reports/01_communication_reports-17.png)
+![Conclusion section should summarize the most important points from your analysis](images/01_reports/01_communication_reports-17.png)
 
 #### References
 
@@ -251,7 +251,7 @@ In this lesson we've discussed what should be included in all reports and what s
 
 ### Slides and Video
 
-![Data Science Reports](https://www.youtube.com/watch?v=u8w4Y2u5vo8)
+![Data Science Reports](https://www.youtube.com/watch?v=IgGQvyKIgZk)
 
 * [Slides](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/edit?usp=sharing)
 
@@ -295,7 +295,7 @@ o) clear, concise language
 o) well thought-out figures
 o) using a good title
 o) including the right amount of detail
-o) indlucing a beginning, middle, and end
+o) including a beginning, middle, and end
 
 {choose-answers: 4}
 ? What is one reason to include references in your reports?

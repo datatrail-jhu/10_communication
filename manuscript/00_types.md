@@ -9,7 +9,7 @@ default-random-choice-order: true
 
 At this point in the Course Set, you've mastered Google Products and version control with GitHub. You've become comfortable working with data in R, understand the importance of tidy data, and know how to visualize your data to better understand it. These are all *incredibly* important skills for a data scientist; however, having these skills is simply not enough. Another crucial skill set for a data scientist to master is that of **communication**. The most interesting results in the world are only the most interesting results in the world if the world knows about them. 
 
-To ensure that your interesting results move effectively from your brain and computer to the brains of the rest of the world, we're dedicating an entire course to **data science communication**. In this course we'll discuss the various ways in which data scientists regularly communicate and provide details on how to master each of these types of communication. We'll start in this lesson by providing an overview of the many types of communication. The rest of the lessons will then describe in detail the considerations to make when executing each of these types of communucation.
+To ensure that your interesting results move effectively from your brain and computer to the brains of the rest of the world, we're dedicating an entire course to **data science communication**. In this course we'll discuss the various ways in which data scientists regularly communicate and provide details on how to master each of these types of communication. We'll start in this lesson by providing an overview of the many types of communication. The rest of the lessons will then describe in detail the considerations to make when executing each of these types of communication.
 
 ### Opinionated Communication
 
@@ -48,7 +48,7 @@ Data scientists often find them in a number of meetings. Meetings can be with te
 
 ### Slides and Video
 
-![Types of Communication](https://www.youtube.com/watch?v=Mx8sgFsSfRM)
+![Types of Communication](https://www.youtube.com/watch?v=D_9Mpk6mNlc)
 
 * [Slides](https://docs.google.com/presentation/d/1HvmiB65ol1EILnxPs2M0xItSDOK5WIUkGcXJxaQHAOw/edit?usp=sharing)
 

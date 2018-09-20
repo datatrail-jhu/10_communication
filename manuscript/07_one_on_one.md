@@ -2,7 +2,7 @@
 
 While meetings often involve a number of individuals, one-on-one meetings are also common to data scientists. The goal of larger meetings are often to share updates on projects, to brainstorm ideas, or to present recent findings from data analyses. However, for one-on-one meetings, the goal is often to consult. 
 
-In these cases, individuals with less data science experience will often bring you (the data scientist) a dataset they don't fully understand. It's your job to figure out what to do. It's these types of one-on-one meetings that we'll dicuss in this lesson. We'll discuss how to navigate these conversations, how to guide the meeting, and what to do after the meeting.
+In these cases, individuals with less data science experience will often bring you (the data scientist) a dataset they don't fully understand. It's your job to figure out what to do. It's these types of one-on-one meetings that we'll discuss in this lesson. We'll discuss how to navigate these conversations, how to guide the meeting, and what to do after the meeting.
 
 ### Consulting
 
@@ -45,13 +45,13 @@ Also, by discussing what form the data should be in for easy analysis, you can d
 
 After discussing the type of data and the question of interest, this is where you, as the data scientist, will determine what type of analysis is most appropriate. Given the information at your disposal, you'll determine what approach you'll take to answer the question of interest. You'll have to determine what variables will be used to answer the question of interest, how you'll deal with missing data, what your plan is for outliers, and determine whether there possible confounders in the analysis? 
 
-This is where you'll be doing the teaching and the person you're meeting with will get to learn. Be sure that everything you say is clear to the other person in the room. Always give them the chance to ask questions. They may be much less familiar with the topics you're discussing, and it's your responsibility to ensure that you're clearly explaining everything. That said, it's their responsibility to ask quesitons if anything is unclear. Together, with the best understanding possible on both sides, the project will be able to move forward.
+This is where you'll be doing the teaching and the person you're meeting with will get to learn. Be sure that everything you say is clear to the other person in the room. Always give them the chance to ask questions. They may be much less familiar with the topics you're discussing, and it's your responsibility to ensure that you're clearly explaining everything. That said, it's their responsibility to ask questions if anything is unclear. Together, with the best understanding possible on both sides, the project will be able to move forward.
 
 ##### Limitations
 
 It's always important to consider what limitations there are to your analysis. To do this, again consider what the **perfect** dataset would look like to answer this question. Then, think about how the data you have differs from this optimal dataset. Those differences are the limitations to your data. 
 
-A similar mental exercise can be done for the analysis. If you'd like to establish a causal relationship between two variables but only have observational data, you may *like* to have a randomized trial dataset. But, you don't. This is a limitation. Thus, you'd report that you are only reporting an association and are **not** assigning causality. It's important to determine *before* the analysis what your interpretation of the results would be however they turn out after the analysis. This will help you avoid overinterpreting your findings after the fact or trying to conclude something beyond what the results of your analysis suggest.
+A similar mental exercise can be done for the analysis. If you'd like to establish a causal relationship between two variables but only have observational data, you may *like* to have a randomized trial dataset. But, you don't. This is a limitation. Thus, you'd report that you are only reporting an association and are **not** assigning causality. It's important to determine *before* the analysis what your interpretation of the results would be however they turn out after the analysis. This will help you avoid over-interpreting your findings after the fact or trying to conclude something beyond what the results of your analysis suggest.
 
 All projects have limitations. And, that's ok! However, they must **all** be discussed *and* reported.
 
@@ -62,7 +62,7 @@ To ensure that you've not missed anything in this meeting, using this checklist 
 Have you...:
 
 * Determined a specific question?
-* Discussed what information is requried to answer question?
+* Discussed what information is required to answer question?
 * Decided what variables you'll use in the analysis?
 * Discussed what data are currently available?
 * Determined if available data in a tidy format?
@@ -78,7 +78,7 @@ Have you...:
 
 #### Assign Responsibility
 
-Once the question has been honed, available data have been discussed, and an analysis plan has been decided, it's time to decide who will be doing the analysis. This often depeneds on how the company is structured. Sometimes, it's your responsibility to do the analysis. Other times, they will do the analysis and discuss results with you at a future meeting. It's important at this point to determine who is responsible for doing what and to set up a future meeting if necessary.
+Once the question has been honed, available data have been discussed, and an analysis plan has been decided, it's time to decide who will be doing the analysis. This often depends on how the company is structured. Sometimes, it's your responsibility to do the analysis. Other times, they will do the analysis and discuss results with you at a future meeting. It's important at this point to determine who is responsible for doing what and to set up a future meeting if necessary.
 
 It's also best to verbally summarize the meeting. By discussing the question of interest, the data, and the analysis, you'll both be on the same page. It's also best to write notes down at this point. Every data scientist has *thought* they'll remember something only to look back in the future and not be able to remember some important detail. Keeping these notes in a lab notebook is a great idea. We'll discuss exactly how to do that in a future lesson in this course.
 
@@ -115,14 +115,14 @@ At the initial meeting, the person you're meeting with:
 
 This **miscommunication** may be unintentional (they don't understand the data they have yet) or intentional (they are afraid or don't want to be honest with you about the data). In these cases, when you go to analyze the data, you may realize that a miscommunication has happened. In these cases, it's best to go back to your collaborator and discuss your reservations and what miscommunication has happened to correct the record and more forward. If their miscommunication was meant to deceive and they still won't be honest with you, it's best to consider whether or not you should continue to work on this project. Here, discussions with your boss or human resources *may* be necessary. Always try to discuss and work with your collaborator first; however, if people are acting unethically and dishonestly, it is *not* your responsibility to continue to work on the project.
 
-If your collaborator is **struggling to be specific enough**, it's often because they haven't thought fully enough about their project yet. In these cases, it's best to explain *why* being specific in asking their quesiton is important using what you learned in the Data Analsyis course earlier in this course set. Additionally, by looking at the data they have available and doing some exploratory analyses and discussing the results, you may be able to help them toward being specific enough going forward.
+If your collaborator is **struggling to be specific enough**, it's often because they haven't thought fully enough about their project yet. In these cases, it's best to explain *why* being specific in asking their question is important using what you learned in the Data Analysis course earlier in this course set. Additionally, by looking at the data they have available and doing some exploratory analyses and discussing the results, you may be able to help them toward being specific enough going forward.
 
 Finally, if the person you're meeting with **doesn't know exactly what they want**, that's ok! Be prepared to have ideas and suggestions to try to get them on the right track. Providing solutions in this case is the best way to get everyone back on track!
 
 
 #### Follow-up meetings
 
-At follow-up meetings, there are futher common pitfalls to be aware of. At these meetings:
+At follow-up meetings, there are further common pitfalls to be aware of. At these meetings:
 
 * the data may not show the desired results
 * information could be missing
@@ -132,7 +132,7 @@ Projects *often* go differently than planned. The results may not show what you 
 
 If you have not received the data you were anticipating or if necessary information you thought were in the dataset are not, this could cause issues at follow-up meetings. In this case, explain the limitations to the analysis should the data or information not be provided. If your collaborator now states that those data will not become available, consider re-working the question or approaching the analysis differently given this new information.
 
-Finally, given differences in backgrounds, a collaborator may misinterpret or not understand the results of your analysis. In the meeting, it's *always* best to ensure that you're on the same page. But, what if you *think* you've done that and then see in an email from your collaborator to your collaborator's boss reports of information that is *not* what your analysis concluded. In these cases, it's best to follow-up directly with your collaborator, explaining (kindly) where they've gone wrong. Often your collaborator will realize their misinterpretation and correct their mistake in a follow-up email to everyone. If they refurse to correct the record; however, it's then your responsibility to do so. This won't always be comfortable, but it's most important that your analysis not be misinterpreted. Generally, it's best to give your collaborator the benefit of the doubt first and to discuss misunderstandings with them directly first. If they are resistant, however, it's your responsibility to make sure that your analysis is not being used incorrectly.
+Finally, given differences in backgrounds, a collaborator may misinterpret or not understand the results of your analysis. In the meeting, it's *always* best to ensure that you're on the same page. But, what if you *think* you've done that and then see in an email from your collaborator to your collaborator's boss reports of information that is *not* what your analysis concluded. In these cases, it's best to follow-up directly with your collaborator, explaining (kindly) where they've gone wrong. Often your collaborator will realize their misinterpretation and correct their mistake in a follow-up email to everyone. If they refuse to correct the record; however, it's then your responsibility to do so. This won't always be comfortable, but it's most important that your analysis not be misinterpreted. Generally, it's best to give your collaborator the benefit of the doubt first and to discuss misunderstandings with them directly first. If they are resistant, however, it's your responsibility to make sure that your analysis is not being used incorrectly.
 
 ### Data Science Ethics
 
@@ -141,12 +141,12 @@ We've discussed ethics in previous courses and briefly above in this lesson, but
 
 ### Summary
 
-In this lesson we've discussed the basics of one-on-one meetings, how to approach the meetings, what to cover in the meeting, and what your responsbilities are as a data scientist in one of these consultation-type meetings. Additionally, we've covered a number of commmon pitfalls that can happen in these types of meetings, and how to handle it should one of these pitfalls happen to you. Finally, we discussed the need to always be true to your ethical code and *never* change your analysis or results simply because someone wants a different outcome.
+In this lesson we've discussed the basics of one-on-one meetings, how to approach the meetings, what to cover in the meeting, and what your responsibilities are as a data scientist in one of these consultation-type meetings. Additionally, we've covered a number of common pitfalls that can happen in these types of meetings, and how to handle it should one of these pitfalls happen to you. Finally, we discussed the need to always be true to your ethical code and *never* change your analysis or results simply because someone wants a different outcome.
 
 
 ### Slides and Video
 
-![How To Have a One-on-One Meeting](https://www.youtube.com/watch?v=z_Y4IeAGSnU)
+![How To Have a One-on-One Meeting](https://www.youtube.com/watch?v=b9-M7ehBlb4)
 
 * [Slides](https://docs.google.com/presentation/d/1bHq2wLpzhG66K2oTD7ruKJqTWY-LSU3fK4_f2-7s6Iw/edit?usp=sharing)
 
@@ -188,7 +188,7 @@ o) All parties involved will participate and listen, but only the data scientist
 o) All parties involved will participate and listen, but only the person looking for assistance will learn 
 o) Only the data scientist is required to participate, listen, and learn 
 o) Only the person looking for assistance is required to participate, listen, and learn 
-o) It is the responsibillity of the data scientist to state the expectations of who will participate, listen, and learn depending on the meeting
+o) It is the responsibility of the data scientist to state the expectations of who will participate, listen, and learn depending on the meeting
 
 {choose-answers: 4}
 ? Consider the following scenario: In the initial meeting, you discussed data that you expected to have in a month. In two months, your collaborator returns and informs you that they lost funding and will no longer be getting that data. **What should you do?**
