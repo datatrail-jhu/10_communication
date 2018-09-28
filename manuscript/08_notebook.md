@@ -191,7 +191,7 @@ In this lesson we discussed why lab notebooks are important, what information sh
 
 ### Slides and Video
 
-![How To Keep a Data Science Lab Notebook](https://www.youtube.com/watch?v=-pS1thNKKVM)
+![How To Keep a Data Science Lab Notebook](https://www.youtube.com/watch?v=wSglleK4HlU)
 
 * [Slides](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/edit?usp=sharing)
 
