@@ -32,7 +32,7 @@ In this lesson, we've reviewed when it's ok to communicate with exploratory figu
 
 ### Slides and Video
 
-![Which Graph to Use When](https://www.youtube.com/watch?v=c-0snpNvyqM)
+![Which Graph to Use When](https://www.youtube.com/watch?v=Z1UbIV5ibCY)
 
 * [Slides](https://docs.google.com/presentation/d/16qKkr_KueZTfUV5tixIf9obFQ8swC5DwFG-l0_ruvSA/edit?usp=sharing)
 

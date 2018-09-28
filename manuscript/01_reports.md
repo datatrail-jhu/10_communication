@@ -251,7 +251,7 @@ In this lesson we've discussed what should be included in all reports and what s
 
 ### Slides and Video
 
-![Data Science Reports](https://www.youtube.com/watch?v=IgGQvyKIgZk)
+![Data Science Reports](https://www.youtube.com/watch?v=eoZzvxuCi5s)
 
 * [Slides](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/edit?usp=sharing)
 
