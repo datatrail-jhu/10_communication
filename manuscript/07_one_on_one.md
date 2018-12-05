@@ -74,7 +74,7 @@ Have you...:
 * Asked if there are any questions?
 * Asked if anything is unclear?
 
-![Consulting Checklist](images/07_one_on_one/07_communication_one_on_one-10.png)
+![Consulting Checklist](https://docs.google.com/presentation/d/1bHq2wLpzhG66K2oTD7ruKJqTWY-LSU3fK4_f2-7s6Iw/export/png?id=1bHq2wLpzhG66K2oTD7ruKJqTWY-LSU3fK4_f2-7s6Iw&pageid=g43e92d984a929705_58)
 
 #### Assign Responsibility
 

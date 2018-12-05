@@ -44,7 +44,7 @@ In a technical talk, it's ok to de-emphasize discussing background information t
 
 All that said, while it's still certainly important to provide your audience with some Introduction and Background information, in a presentation to a technical audience, the bulk of your time and focus should be spent discussing the details of the analysis and its results. 
 
-![Technical Talk Breakdown](images/04_technical/04_communication_technical-5.png)
+![Technical Talk Breakdown](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_0)
 
 ### Technical Presentation Example 
 
@@ -58,23 +58,23 @@ Like in the last lesson, we're going to walk through a technical talk. The title
 
 We'll break down this talk in the same way that we did the general audience talk in the last lesson. 
 
-![Visual representation of technical presentation](images/04_technical/04_communication_technical-8.png)
+![Visual representation of technical presentation](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_192)
 
 As a reminder, each slide was assigned one of 7 categories: question, outline, background, approach, results, teaching, or conclusion. Each category was assigned a different color. (The colors are the same as in the previous lesson). All the way to the left represents the first slide in the presentation. All the way to the right represents the last slide. 
 
 You'll first note that this presentation (like the general audience presentation) is motivated by a question, helping tie the story together. The presentation again begins with background. 
 
-![Presentation still begins with a motivating question and background information](images/04_technical/04_communication_technical-9.png)
+![Presentation still begins with a motivating question and background information](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_699)
 
 However, what you'll notice is that this technical presentation is results and approach heavy. A fair amount of the presentation is dedicated to results. 
 
-![Much of the presentation is results or approach](images/04_technical/04_communication_technical-10.png)
+![Much of the presentation is results or approach](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_606)
 
 Further, unlike the general presentation slides, the approach here includes a greater amount of technical detail. Thus, while the analytical approach *is* discussed in a general presentation, it's done at a high level. Here, in a technical presentation, equations and specific details of the analysis are included.
 
 To summarize this presentation, we can see that the bulk of the presentation is spent on background, results, and approach. There is not much teaching in this technical presentation.
 
-![Bar plot summary of technical talk](images/04_technical/04_communication_technical-11.png)
+![Bar plot summary of technical talk](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g2bfdb07292_0_151)
 
 ### General vs Technical
 
@@ -82,19 +82,19 @@ In the last lesson in this course we visualized a general talk and here we've do
 
 Here we see the general presentation visualized at the top and technical beneath it. The focus on teaching and approach in a general talk and the focus on approach and results in a technical talk becomes evident when compared on the same image.
 
-![General vs. Technical](images/04_technical/04_communication_technical-12.png)
+![General vs. Technical](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3f9d5b130f_0_25)
 
 To summarize this graphically, using the same bar plots, here we have the same categories we've looked at previously, but we see the results for each type of presentation. General talk is in green. Technical talk is in orange. When we focus on the results and teaching bars, we can see this general talk did a lot more teaching, while the technical talk focused more time presenting results. 
 
-![Technical focused on results; General did more teaching](images/04_technical/04_communication_technical-13.png)
+![Technical focused on results; General did more teaching](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_188)
 
 As discussed previously, both have a similar amount of background and approach; however, the approach slides for a technical talk are much more specific than they were for the general talk.
 
-![Background and approach similar in both; more detail in technical](images/04_technical/04_communication_technical-14.png)
+![Background and approach similar in both; more detail in technical](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3f9d5b130f_0_12)
 
 Finally, we've also broken down the presentation by percent of slides dedicated to each part of the presentation. We can see that there aren't huge differences between the two types of presentations. In both cases, the bulk of the time was dedicated to discussing part two, as this was the focus of the presentation. Thus, while the *way* the information was presented and the *level of detail* differed between the two presentations, the breakdown of the topics discussed in each presentation were pretty similar.
 
-![Time spent on each part of the presentation was similar](images/04_technical/04_communication_technical-15.png)
+![Time spent on each part of the presentation was similar](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_337)
 
 ### Summary
 

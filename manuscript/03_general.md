@@ -49,7 +49,7 @@ In a presentation to a general audience, you should de-emphasize:
 
 IF we were to summarize this graphically, where the size of each box is relative to how much you should emphasize it in your presentation, the introduction and background will likely be the bulk of your talk, whereas the details you include about your analysis may be less. Your conclusion will be succinct and wrap everything up for your audience.
 
-![Summary of presentation parts](images/03_general/03_communication_general-5.png)
+![Summary of presentation parts](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g2bfdb07292_0_151)
 
 Remember, your audience will be hearing a lot of this information for the first time. There is only so much any individual can learn at once! Because of this, be sure to **focus on the introduction**, including the question you asked and the necessary background information. While you will certainly provide your audience with what you did and what you found, you will keep the details here to a minimum. Avoid including details about things that confused you along the way. Then, in your conclusion, remind your audience of your conclusions and provide them with the most important message they should take away from your presentation.
 
@@ -71,7 +71,7 @@ In the next lesson, we'll walk through the slides for a talk on the exact same t
 
 To walk through how this talk was organized, we're going to use the following figure:
 
-![Talk breakdown](images/03_general/03_communication_general-8.png)
+![Talk breakdown](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_11)
 
 Each slide in the presentation was assigned to one of 7 categories. Each category is a different color on the figure:
 
@@ -82,43 +82,43 @@ Each slide in the presentation was assigned to one of 7 categories. Each categor
 * Teaching - A quick lesson about a specific topic to ensure the results make sense to the audience
 * Conclusion - The end of the slides, wrapping up the presentation
 
-![Categories](images/03_general/03_communication_general-9.png)
+![Categories](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_662)
 
 The bar in the middle shows how the categories break down throughout the presentation. At the left we have the title slide. All the way at the right we have the conclusion slides. In between, the width of each section is proportional to the number of slides included in the presentation. The wider the box, the more slides. The thinner the box (or line), the fewer slides in the presentation were dedicated to that category at that point in the talk.
 
-![How to interpret the graphic](images/03_general/03_communication_general-10.png)
+![How to interpret the graphic](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_717)
 
 The last bit about how to read this image is that above the colored boxes, you can see the percentage of the slides dedicated to each part of the talk. For example, most of the slides (51%) were used in Part 2 of the talk. This makes sense, as the focus of the talk was on "phenopredict."
 
-![Percentage of slides for each part of the talk](images/03_general/03_communication_general-11.png)
+![Percentage of slides for each part of the talk](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_777)
 
 Now that we know how to read this figure, let's discuss a bit of what we see. First of all, there is a heavy focus in the first part of the talk on discussing necessary background information. As this is a general audience, that makes sense!
 
-![The first part of the talk is background-heavy](images/03_general/03_communication_general-12.png)
+![The first part of the talk is background-heavy](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_833)
 
 In the middle of the talk, a lot of time is dedicated to teaching the audience the necessary concepts and information and explaining (at a high level) what approaches were used in the analyses.
 
-![There is a focus on teaching and approach in the middle](images/03_general/03_communication_general-13.png)
+![There is a focus on teaching and approach in the middle](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_943)
 
 Note that while results are presented, it's not in great detail. The audience is taught what they need to know before results are presented. This ensures that nobody gets lost.
 
-![Results are presented, but nitty-gritty details are omitted](images/03_general/03_communication_general-14.png)
+![Results are presented, but nitty-gritty details are omitted](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_998)
 
 Additionally, in this talk, a motivating question was presented to the audience to fully explain *why* this work was necessary. By motivating the presentation with this question, coming back to it throughout the presentation, and then using the data and analysis presented in this talk to answer the motivating question at the end, the presentation becomes a story.
 
-![A motivating question can help tie your presentation into a full story](images/03_general/03_communication_general-15.png)
+![A motivating question can help tie your presentation into a full story](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_1119)
 
 Lastly, an outline was used throughout the presentation to remind the audience what has been discussed and what was yet to come.
 
-![Outlines can help the audience](images/03_general/03_communication_general-16.png)
+![Outlines can help the audience](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_1178)
 
 When all was said and done, if we were to calculate the percent of slides dedicated to eacch of the categories, we would see that the category with the largest percent of time spent is background information, with 30% of the total slides being spend on it.
 
-![Categorical breakdown](images/03_general/03_communication_general-17.png)
+![Categorical breakdown](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_6)
 
 However, if we consider background, teaching, and explaining the approach, we see that about 65% of the time was spent providing information to the audience that had nothing to do with the specific new information being presented about this analysis.
 
-![Considering background, teaching, and approach together](images/03_general/03_communication_general-18.png)
+![Considering background, teaching, and approach together](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_1241)
 
 This makes sense, because, as you'll remember, the goal of a general audience presentation is to teach your audience what you did. It's not about the nitty gritty details. Instead, you want to present information at a high level.
 

@@ -51,17 +51,17 @@ That said, it's *not* ok to update everything at the end of the week or once a m
 
 Now that we've discussed what a data science lab notebook is and what information should be included in that lab notebook, let's walk through an actual example using an electronic lab notebook. [Benchling](https://benchling.com/) is one of many electronic lab notebooks. Benchling, like most electronic lab notebooks, have been designed with experimentalists (biologists, chemists, etc.) in mind. Thus, there will  be features of Benchling that are helpful to those groups that we will not use or discuss. However, the ability to keep notes about projects on a daily basis is certainly a capability within Benchling. Thus, we'll use it here for this example. Feel free to look around on Google for other electronic lab notebooks; however, it's best to pick one and stick to it. This way, your notes will all be in one place rather than across multiple platforms over time.
 
-![Benchling](images/08_notebook/08_communication_notebook-6.png)
+![Benchling](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g2bfdb07292_0_151)
 
 #### Sign Up
 
 To get started with your own data science lab notebook, you'll first need an account with Benchling. To do so, navigate to [https://benchling.com/](https://benchling.com/) and click on "Sign Up" in the upper right-hand corner of the screen.
 
-![SIGN UP](images/08_notebook/08_communication_notebook-7.png)
+![SIGN UP](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_187)
 
 You'll be brought to a new screen. It's easiest to simply click "SIGN IN WITH GOOGLE." 
 
-![SIGN IN WITH GOOGLE](images/08_notebook/08_communication_notebook-8.png)
+![SIGN IN WITH GOOGLE](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_2)
 
 On the next screen, enter your Google email address and click "Next". 
 
@@ -69,90 +69,90 @@ On the next screen, enter your Google email address and click "Next".
 
 Then, enter your password for that account. Again, click "Next".
 
-![Enter Google Password](images/08_notebook/08_communication_notebook-10.png)
+![Enter Google Password](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_13)
 
 Then, fill out the information for the username you'll use on Benchling. Again, it's best for your username to be consistent across platforms. However, if that username is taken, you can use a different (but still professional and appropriate!) username.
 
-![Fill out Information for Benchling](images/08_notebook/08_communication_notebook-11.png)
+![Fill out Information for Benchling](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_18)
 
 Once all the information has been completed, click "Create Account".
 
 Benchling will then ask that you set up your profile. It's required to include a Company Name and a Phone number at this point in time. Team and Role are optional, so include those at this time if you want. Once this form has been completed, click Next.
 
-![Profile Set Up](images/08_notebook/08_communication_notebook-12.png)
+![Profile Set Up](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_23)
 
 Congrats! You know have a Benchling account! You'll be brought to a screen where Benchling will ask whether or not you're here to "Take Notes" or to "Start Cloning." Since we're here to take notes and do data science and are not here to do molecular biology, click "Take Notes."
 
-![Take Notes](images/08_notebook/08_communication_notebook-13.png)
+![Take Notes](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_28)
 
 #### Create A Project
 
 You'll now set up your first **project**. In the last course you were working on the Final Project for this Course Set. In the next course, you'll be adding this project to your portfolio on your website. To do so, you'll want to record changes and updates you make to this project on Benchling. So, let's create a project called "CBDS: Final Project" now. Type that in the Project Title box now and click "Create Project"
 
-![Create Project](images/08_notebook/08_communication_notebook-14.png)
+![Create Project](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_32)
 
 #### Create An Entry
 
 You'll now be introduced to **entries**. You'll create entries within projects. This will be where you includes notes and results each day. Read the information on this screen, note that some of it will not apply to you because it's geared toward biologists, and then click "Next."  
 
-![Introducing Entries](images/08_notebook/08_communication_notebook-15.png)
+![Introducing Entries](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_39)
 
 You'll then be prompted to create your first entry. We'll call this entry "data analysis." We'll include any details about edits or results from the analysis in this entry. Type "data analysis" in the "Entry Title" box and then click "Start writing".
 
-![Create Entry](images/08_notebook/08_communication_notebook-16.png)
+![Create Entry](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_44)
 
 You've now got your data science lab notebook set up and ready to go. There will be circles on your screen to help you orient yourself to the Benchling platform. Click on these to learn more about what you're looking at. Once you click on them and click "Got It" in the box that appears, these circles will disappear. 
 
-![Benchling Screen](images/08_notebook/08_communication_notebook-17.png)
+![Benchling Screen](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_53)
 
 What you're looking at here is the screen you'll become very familiar with as you get used wot working within an electronic lab notebook. We'll walk through a few important pieces for our purposes now!
 
 Within each entry, you'll add information. All notes you add a project should be entered under the date on which the analysis or step was completed. 
 
-![Add notes under appropriate date](images/08_notebook/08_communication_notebook-18.png)
+![Add notes under appropriate date](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_61)
 
 To add a new date within an entry, click on "Insert" and select "New day" from the drop down menu. 
 
-![Insert New Date](images/08_notebook/08_communication_notebook-19.png)
+![Insert New Date](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_49)
 
 A new date will be added to your entry.
 
-![New date added](images/08_notebook/08_communication_notebook-20.png)
+![New date added](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_69)
 
 Benchling will make its best guess as to which date you wanted to be entered; however, if this date is not correct, simply click on the date and change the date to the appropriate date from the calendar that appears.
 
-![Select Date](images/08_notebook/08_communication_notebook-21.png)
+![Select Date](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_74)
 
 Note that Benchling forces entries to be in chronological order. This makes good sense in a lab notebook since previous work has to happen before work today or future work.
 
 In addition to text, entries can include hyperlinks, code, and images. To include a hyperlink, highlight the text you'd like to be the hyperlink
 
-![Highlight text and add hyperlink](images/08_notebook/08_communication_notebook-22.png)
+![Highlight text and add hyperlink](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_93)
 
 Then, click on the hyperlink icon along the menu at the top, and then enter the URL you want to link to in the URL box that appears. Click "Save."
 
-![Add Link](images/08_notebook/08_communication_notebook-23.png)
+![Add Link](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_98)
 
 The hyperlink will appear in the text.
 
 Code and Attachments (images, etc.) can be added from the "Insert" drop-down menu. For example, to include code, you would click on "Insert" and then select "Code". 
 
-![Insert Code](images/08_notebook/08_communication_notebook-24.png)
+![Insert Code](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_103)
 
 A code box will appear in your entry. Code can be typed or pasted in this box.
 
-![Code box within entry](images/08_notebook/08_communication_notebook-25.png)
+![Code box within entry](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_108)
 
 
 #### Create A New Entry
 
 If you want to create a different entry within the same project, you would click on the plus sign "Create..." icon in the Projects menu bar at the left. Select "Entry" from the drop down menu.
 
-![Create New Entry](images/08_notebook/08_communication_notebook-26.png)
+![Create New Entry](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_79)
 
 A new Untitled Entry will open up. You'll see a new tab along the top. You'll edit the title of this entry and Include notes as previously.
 
-![Untitled Entry](images/08_notebook/08_communication_notebook-27.png)
+![Untitled Entry](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_88)
 
 #### Create A New Project
 
@@ -160,28 +160,28 @@ You now know how to create and edit entries within a project; however, you'll al
 
 To create a new Project, you'll first want to click on "Projects" at the top left of the Projects panel. This will take you from the entries within the current project you're working on to display the projects you have on Benchling.
 
-![To create a new project](images/08_notebook/08_communication_notebook-28.png)
+![To create a new project](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_125)
 
 Now if you click on the plus sign, you will create a new project.
 
 A box will appear. You would fill out this information to create a new project within your Benchling account.
 
-![Create project](images/08_notebook/08_communication_notebook-29.png)
+![Create project](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_120)
 
 
 #### Calendar View
 
 Now that we've discussed projects and entries, there's an additional nice feature of Benchling. There is a calendar view within Benchling with will let you know what entries and what projects you've worked on on what days.To access it you would click on the benchling icon at the top left-hand of the screen.
 
-![Click on home icon](images/08_notebook/08_communication_notebook-30.png)
+![Click on home icon](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_130)
 
 Then, click on today's date. 
 
-![Click on today's date](images/08_notebook/08_communication_notebook-31.png)
+![Click on today's date](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_136)
 
 A calendar view will appear. Each project will be in a different color and each entry will appear on the days of the calendar on which that entry was worked on. This is a helpful way to determine what you were working on and when.
 
-![Calendar view from Benchling](images/08_notebook/08_communication_notebook-32.png)
+![Calendar view from Benchling](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_141)
 
 While Benchling has a number of other features, these will get you started. Be sure to add entries within projects and update them on each and every day on which you work on that project. It is sure to help you down the line!
 
