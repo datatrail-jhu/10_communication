@@ -4,3 +4,5 @@
 .Ruserdata
 *.mp4
 videos/
+manuscript/resources/videos/*
+manuscript/resources/images/*
