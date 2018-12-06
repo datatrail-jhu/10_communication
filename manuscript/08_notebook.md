@@ -65,7 +65,7 @@ You'll be brought to a new screen. It's easiest to simply click "SIGN IN WITH GO
 
 On the next screen, enter your Google email address and click "Next". 
 
-[Enter Google Username](images/08_notebook/08_communication_notebook-9.png)
+![Enter Google Username](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_8)
 
 Then, enter your password for that account. Again, click "Next".
 

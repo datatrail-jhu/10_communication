@@ -151,11 +151,11 @@ Lucy uses large fonts and colors that can be distinguished by anyone in the audi
 
 Additionally, Lucy uses effective highlighting of text using different colors. Here, the parts of the text that Lucy wants the audience to focus on are in a brighter blue and a brighter green! Also note that there is not a lot of blank space on the slides.
 
-[Text highlighting helps focus users' eyes on what's important](images/02_presentations/02_communication_presentations-20.png)
+![Text highlighting helps focus users' eyes on what's important](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e029efc87_0_6)
 
 Additionally, Lucy's slides guided what she was going to say but didn't include all the words on the slides. Here, we see large font and large images but no words. This allowed the audience to listen to what she was saying rather than read all the words on the slides! 
 
-[Limit words and allow the audience to listen](images/02_presentations/02_communication_presentations-21.png)
+![Limit words and allow the audience to listen](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e029efc87_0_19)
 
 #### Presentation
 
