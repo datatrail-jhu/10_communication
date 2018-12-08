@@ -14,6 +14,7 @@ After you introduce your topic, the body (or middle) of your blog post should be
 
 Finally, there should be a conclusion section. This should concisely explain the take home message or messages that you want readers to get from your post. 
 
+{format: png}
 ![General Outline](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_145)
 
 ### Types of Blog Posts
@@ -33,12 +34,14 @@ We'll describe what each of these is in this lesson and walk through an example 
 
 For example, [Julia Silge](https://stackoverflow.blog/authors/juliasilge/) contributed an announcement post to the [Stack Overflow blog](https://stackoverflow.blog/) titled: [Public Data Release of Stack Overflow's 2018 Developer Survey](https://stackoverflow.blog/2018/05/30/public-data-release-of-stack-overflows-2018-developer-survey/). The main goal of this post is right there in the first sentence. The post was written to inform readers that they can now **"access the public data release for Stack Overflow's 2018 Developer Survey."** 
 
+{format: png}
 ![Announcement Post](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_0)
 
 The post goes on to describe what the [Stack Overflow 2018 Developer Survey](https://insights.stackoverflow.com/survey/2018) is with **hyperlinks to information that may be helpful** to readers. Readers *could* go to that link to read all the details of this important annual survey, which asks more than 100,000 developers about the technologies they use, careers they have, and how they learn; however, that's not required.
 
 This is because in addition to making this announcement Julia also includes what types of questions these data can be used to answer with figures and short explanations of each example right in her blog post. Each example in her blog post is separated by a bold header that asks a question. Julia then provides a figure answering that question with a short bit of text after the figure explaining what readers should take away from the figure.
 
+{format: png}
 ![Examples using the announcement](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_6)
 
 Specifically, if we look at the section "Who considers themselves part of the Stack Overflow community?" in the post, we see a clear figure with "years of coding experience" on the x-axis and "% who consider themselves part of the Stack Overflow community" on the y-axis. The lines on the graph are colored by gender, with a key for which line is which gender off to the right. Below the figure is a short paragraph explaining in words how readers could interpret the information on this plot. 
@@ -59,26 +62,31 @@ How-To blog posts on introductory data science topics, such as data wrangling, c
 
 How-To blog posts should **introduce what it is the post will teach** and then **provide all the information needed for the reader to learn** the topic being covered. In Suzan's `dplyr` posts specifically, the title first describes what readers will learn by reading the blog post.
 
+{format: png}
 ![`dplyr` tutorial](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_22)
 
 She also helpfully includes a table of contents for readers, so that skipping to the section of most interest to you is simple!
 
+{format: png}
 ![table of contents](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_34)
 
 Then, for each section, Suzan includes a section title, text to describe what the section will teach, the necessary code, and the results of the code.
 
+{format: png}
 ![each section of the post](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_40)
 
 By using this structure, each step is organized into a digestible amount of information. Suzan doesn't introduce all the topics at once. Instead, she incrementally walks readers through each required step. This is an important part of writing good how-to blog posts!
 
 For another example, [Hilary Parker](https://hilaryparker.com/about-hilary-parker/) wrote a blog post called ["Writing an R package from Scratch"](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/) on her blog [Not So Standard Deviations](https://hilaryparker.com/). While we haven't discussed writing R packages on your own yet in this Course set, we have worked with many different R packages! Each package has a similar structure. Hilary Parker explains how to write an R package in her [very helpful how-to blog post](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)! 
 
+{format: png}
 ![Writing an R package from scratch](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_28)
 
 In this post, she includes a very clear title and begins her post with a story about *why* she's writing this post. This helps draw the reader in. Then, at the end of the introduction she informs the reader what they will get out of the tutorial.
 
 As her blog post continues, she includes links to where readers can find more in-depth information about the topic as well as clearly defined steps so that a reader could make a package of their own.Steps are separated into sections and code is clearly separated from explanatory text.
 
+{format: png}
 ![Information is presented clearly](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_59)
 
 In both of these examples, the How-To Post:
@@ -95,14 +103,17 @@ In addition to How-To posts, data scientists often blog about interesting analys
 
 He includes the main point of his analysis in his title and then introduces where he got the idea to do this analysis. 
 
+{format: png}
 ![Blog post begins with background information](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_74)
 
 After introducing the question, David Robinson introduces his readers to the dataset he's used for the analysis, including code for others to also carry out the analysis
 
+{format: png}
 ![Dataset introduction](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_80)
 
 The post then walks readers through all the code necessary to reproduce his analysis, text to explain each step in his analysis, and figures throughout the post to display the results. For example, in the "Comparison of words" section of his post, he shows readers the code used to wrangle the data used in his figure. Then, the displays the figure with text beneath explaining what the figure shows.
 
+{format: png}
 ![Presenting & Explaining Figures](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_85)
 
 Note that all the figures in this post are clear; however, they're not always as polished as what you may see in a published article. This is OK! The point is to convey the results of your analysis, not to have the prettiest figures. Thus, time should be spent ensuring that your post is clear and your analysis correct, but it's not necessary on a blog post to ensure that everything is of publication quality! Of course, you don't want to share incorrect information. So, it's best to spend time cleaning your data, ensuring that your analyses are correct, and considering the ethical implications of your work before sharing it online.
@@ -111,10 +122,12 @@ Note that all the figures in this post are clear; however, they're not always as
 
 Finally, helpful blog posts can also provide readers with a **description of the authors' workflow.** These types of posts are helpful to understand how others work on their computers and analyze data. They provide readers with ways to speed up their current data analysis process, introduce readers to new technology, and provide an alternate approach that may be different than your current approach. One popular workflow blog post is from [Jenny Bryan](https://www.stat.ubc.ca/~jenny/) titled ["Project-oriented workflow"](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/). In this post, Jenny Bryan explains how she sets up her working environment in RStudio using a project-oriented workflow. She begins the post by explaining what prompted her to write this post. She follows up the introduction by defining some important terms (necessary background information!) that will help readers understand the rest of her post.
 
+{format: png}
 ![Introduction](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_91)
 
 Then, Jenny Bryan introduces the `here` package and using RStudio Projects in your workflow. She includes section headers to organize the post and all necessary code to get started using this workflow
 
+{format: png}
 ![workflow details](https://docs.google.com/presentation/d/1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U/export/png?id=1CoJJ4zEULcwzIcII6YU_ymO5mmdgD-HjVDdWEPwnm5U&pageid=g3f9ed3b4ce_0_97)
 
 It's a brief but helpful post about how to approach data analysis using projects and what the potential downfalls are of opting *not* to use this type of workflow. 
