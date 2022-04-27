@@ -15,15 +15,15 @@ Generally, there are three goals of any presentation. A good presentation should
 
 ### Know your Audience
 
-In order to inspire, educate, and entertain, the first thing you must consider is your audience. For presentations, people often say you must **know your audience**. If you have a room full of analytical people (mathematicians, accountants, scientists, etc.), you should consider presenting data and numbers. Conversely, if you are presenting to a room full of creatives (artists, photographers, writers, etc.), it's likely best to ensure that the graphics you present are visually appealing. You should always **keep your audience in mind** while preparing a presentation. 
+In order to inspire, educate, and entertain, the first thing you must consider is your audience. For presentations, people often say you must **know your audience**. If you have a room full of analytical people (mathematicians, accountants, scientists, etc.), you should consider presenting data and numbers. Conversely, if you are presenting to a room full of creatives (artists, photographers, writers, etc.), it's likely best to ensure that the graphics you present are visually appealing. You should always **keep your audience in mind** while preparing a presentation.
 
 ### Mind your Audience
 
-After considering your audience and designing your presentation to be most appropriate for those listening, you must always **stay within your allotted time**. Out of respect for the time of others in the room and for others who may also have information to present, this is essential. If you have 5 minutes to talk, stop at or before 5 minutes. If you have 20 minutes to speak, stop at or before 20 minutes. Your audience **will tune out** if you go over your time limit *or* you'll be told to stop by someone else in the room. It's best to avoid either of these situations and respect the time of those in your audience. Always stay within your allotted time. 
+After considering your audience and designing your presentation to be most appropriate for those listening, you must always **stay within your allotted time**. Out of respect for the time of others in the room and for others who may also have information to present, this is essential. If you have 5 minutes to talk, stop at or before 5 minutes. If you have 20 minutes to speak, stop at or before 20 minutes. Your audience **will tune out** if you go over your time limit *or* you'll be told to stop by someone else in the room. It's best to avoid either of these situations and respect the time of those in your audience. Always stay within your allotted time.
 
 ### Prepare
 
-Putting together a good presentation takes time. Be sure to leave yourself enough time to put a good story and beautiful slides together. 
+Putting together a good presentation takes time. Be sure to leave yourself enough time to put a good story and beautiful slides together.
 
 ### Tell a Story
 
@@ -49,18 +49,18 @@ A few guidelines when deciding the words you'll include on slides:
 * encourage listening (limit reading)
 * include references on the slides directly (and at the end!)
 
-Do not try to cram all your ideas onto a single slide. And, everything you say does *not* have to be up on the slides. You're speaking for a reason. The slides should help guide you along in telling your story, but your audience should have to listen to what you're saying to get the full picture of your story. 
-  
+Do not try to cram all your ideas onto a single slide. And, everything you say does *not* have to be up on the slides. You're speaking for a reason. The slides should help guide you along in telling your story, but your audience should have to listen to what you're saying to get the full picture of your story.
+
 ##### Fonts
 
 To convey textual information to your audience, choosing a good font is important. It's generally safe to **stick to Sans Serif font**. Sans Serif fonts can be searched through at [Google Fonts](https://fonts.google.com/). And, when in doubt, **Helvetica is a safe font choice**. Further, use consistent fonts throughout your talk. More than one font *can* be used to draw viewers attention to something, but typically there should be a consistent font used throughout the presentation.  Finally, as with most rules, there are exceptions, so take time deciding on what font looks best for each part of your presentation.
-  
+
 {format: png}
 ![Choose Good Fonts](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_86)
 
 ##### Size
 
-Regardless of what font you choose for your text, your **text should be very large**. It's often argued that you should design your slides for the back of the room. 
+Regardless of what font you choose for your text, your **text should be very large**. It's often argued that you should design your slides for the back of the room.
 
 {format: png}
 ![Use Large Text](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_287)
@@ -70,7 +70,7 @@ The same goes for images. There's no need to leave empty space on your slides ar
 {format: png}
 ![Expand Images](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_297)
 
-#### Colors 
+#### Colors
 
 Finally, with regards to slide design, colors matter. Choosing a dark background (such as dark gray) means that your text should be light (maybe white). If your background is light, your text should be dark. Contrast will make it easier on your audience to read.
 
@@ -95,9 +95,9 @@ Visually, things should be aligned. Center things in the middle of your slide. M
 
 When it comes time to give the presentation, there are a few things to keep in mind. First and foremost, **speak clearly**. Whether you are a loud-talker, a soft-speaker, someone who speaks slowly, or a fast-talker, the most important thing is to make sure that the words you say are clear to your audience.
 
-Second, you should **be excited**. If you're not excited or passionate about what you're talking about, why would your audience be? If you're not excited, it may be best to *reconsider your outline* and re-work your story until you are. 
+Second, you should **be excited**. If you're not excited or passionate about what you're talking about, why would your audience be? If you're not excited, it may be best to *reconsider your outline* and re-work your story until you are.
 
-To avoid being boring during your talk, you can vary the speed and volume of your voice. You can move around so you're not always in one place. And, you can use pauses effectively. It's ok to not speak every second that you're up there. You can pause and give your audience some time to look at a graph before you talk about it. Silence for short periods of time is allowed! 
+To avoid being boring during your talk, you can vary the speed and volume of your voice. You can move around so you're not always in one place. And, you can use pauses effectively. It's ok to not speak every second that you're up there. You can pause and give your audience some time to look at a graph before you talk about it. Silence for short periods of time is allowed!
 
 Finally, be yourself. If you naturally like to tell jokes, tell jokes during your presentation. If stories are more your style, work a story or two in. Ultimately, if you're not comfortable in front of your audience, check to make sure you're being true to who you are as an individual.
 
@@ -109,7 +109,7 @@ Finally, when presenting it's important to remember that **you've seen the data 
 {format: png}
 ![Explain Your Figures](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g4039734916_0_0)
 
-### Practice 
+### Practice
 
 Most people are hesitant when it comes to speaking. They're nervous about getting up in front of a crowd. If you find yourself being nervous to make a data science presentation, know that you're not alone.
 
@@ -124,13 +124,13 @@ The further along you are in your career, the less you will likely have to pract
 
 #### Be Prepared
 
-The day of your presentation, things may go wrong. Power goes out, projectors don't always present your material exactly the same way it looks on your computer screen. Technology doesn't always behave as we expect it too. In these cases, you just have to roll with the punches. 
+The day of your presentation, things may go wrong. Power goes out, projectors don't always present your material exactly the same way it looks on your computer screen. Technology doesn't always behave as we expect it too. In these cases, you just have to roll with the punches.
 
 To avoid any big issues, it's best to bring a copy of your talk on a USB drive, carry any adapters you may need should you have to (or choose to) present from your own computer. Don't expect the location to have the adapter you need. And, be sure your phone is on silent. After that, just roll with anything that goes wrong. The audience will be forgiving, as they all know that technology can sometimes act unexpectedly.
 
 {format: png}
 ![Prepare & then roll with the punches](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_364)
-  
+
 ### Handling Questions  
 
 After your presentation, there may be time allotted for the audience to ask questions. When answering questions, always take a little bit of time to pause and think about the question before answering. In fact, it's often helpful to repeat the question asked of you back to the audience. This ensures that the entire room has heard the question and gives you some time to think. If you need more time, remember, silence is ok! Finally, if you don't know an answer, it's ok to say "I don't know." You should never make up an answer because you're afraid of saying "I don't know."
@@ -144,7 +144,7 @@ To walk you through an example of a data science presentation, we're going to us
 
 #### Talk Outline
 
-In the introduction, Lucy expresses her excitement and gives her audience an outline of the talk. The three topics she's going to cover are: 
+In the introduction, Lucy expresses her excitement and gives her audience an outline of the talk. The three topics she's going to cover are:
 
 * What is an API?
 * How are APIs accessed from R
@@ -169,22 +169,22 @@ Additionally, Lucy uses effective highlighting of text using different colors. H
 {format: png}
 ![Text highlighting helps focus users' eyes on what's important](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e029efc87_0_6)
 
-Additionally, Lucy's slides guided what she was going to say but didn't include all the words on the slides. Here, we see large font and large images but no words. This allowed the audience to listen to what she was saying rather than read all the words on the slides! 
+Additionally, Lucy's slides guided what she was going to say but didn't include all the words on the slides. Here, we see large font and large images but no words. This allowed the audience to listen to what she was saying rather than read all the words on the slides!
 
 {format: png}
 ![Limit words and allow the audience to listen](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e029efc87_0_19)
 
 #### Presentation
 
-In addition to having well-designed slides, Lucy was excited as she spoke, was clear in her speech, spoke at an easy-to-listen-to pace, and her personality came through as she spoke. This is all evident if you listen to the video of her presentation. Lucy being true to her personality helps make it a wonderful presentation. If your personality is different than Lucy's, that's totally ok! Just be sure that when you present, you're presenting in a way that you're most comfortable! 
+In addition to having well-designed slides, Lucy was excited as she spoke, was clear in her speech, spoke at an easy-to-listen-to pace, and her personality came through as she spoke. This is all evident if you listen to the video of her presentation. Lucy being true to her personality helps make it a wonderful presentation. If your personality is different than Lucy's, that's totally ok! Just be sure that when you present, you're presenting in a way that you're most comfortable!
 
 ### Example Presentation: Analysis
 
-Lucy's presentation is an example of a wonderful, educational, and helpful talk; however, her goal wasn't to talk in depth about an analysis she's done. Often, as a data scientist, you'll be tasked with presenting an analysis you've done. To do so, you'll want to use the same guidelines previously discussed in this lesson, but with a focus on **presenting the story of your data analysis**. This includes the plots, analytical approach, and findings of your project. That said, your slides should still be well-designed, you should still tell a story, and your text and colors should all be readable when projected; however, in this case, there are a few additional caveats to consider. 
+Lucy's presentation is an example of a wonderful, educational, and helpful talk; however, her goal wasn't to talk in depth about an analysis she's done. Often, as a data scientist, you'll be tasked with presenting an analysis you've done. To do so, you'll want to use the same guidelines previously discussed in this lesson, but with a focus on **presenting the story of your data analysis**. This includes the plots, analytical approach, and findings of your project. That said, your slides should still be well-designed, you should still tell a story, and your text and colors should all be readable when projected; however, in this case, there are a few additional caveats to consider.
 
 To discuss these, we'll use an example presentation from Julia Silge, who is a data scientist at Stack Overflow and a wonderful presenter. In 2017 at the rstudio::conf, [Julia Silge](https://juliasilge.com/about/) presented "Text Mining the tidy Way". The [video](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) and [visuals](https://speakerd.s3.amazonaws.com/presentations/d6041c6b704d4bf7bfa9d0973ae2d006/rstudio_conf.pdf) from her presentation are available online. This talk discusses the `tidytext` package (which she and [David Robinson](http://varianceexplained.org/about/) developed) and example analyses using this awesome R package. We've discussed this package previously, but if you want a refresher on tidytext, how to work with textual data, and sentiment analysis, [this](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) is a great resource!
 
-As above, we'll highlight a few slides from the talk and discuss considerations to make when presenting a data analysis. 
+As above, we'll highlight a few slides from the talk and discuss considerations to make when presenting a data analysis.
 
 #### Talk Outline
 
@@ -202,7 +202,7 @@ As discussed above with Lucy's presentation, in Julia's slides, she limits the a
 
 However, what's different about this presentation is how Julia presents her analyses. When presenting an analysis, it's generally best to first explain the approach and then present the results. For example, Julia uses TF-IDF to analyze text in Jane Austen's novels.
 
-She first explains what TF-IDF is. She includes the bare minimum amount of information on her slide, so that her audience is only seeing what's necessary. Then, she verbally describes what TF-IDF is. 
+She first explains what TF-IDF is. She includes the bare minimum amount of information on her slide, so that her audience is only seeing what's necessary. Then, she verbally describes what TF-IDF is.
 
 {format: png}
 ![TF-IDF slide](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_24)
@@ -217,11 +217,11 @@ Finally, for each part of her analysis, she includes a visualization of the resu
 {format: png}
 ![figures from analysis](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_5)
 
-Note that Julia does not go into every single detail of every analysis, nor just she talk about all the things she tried in a single presentation. She includes enough information so that her audience learns and can go try this type of analysis on their own, if they're interested! 
+Note that Julia does not go into every single detail of every analysis, nor just she talk about all the things she tried in a single presentation. She includes enough information so that her audience learns and can go try this type of analysis on their own, if they're interested!
 
 #### Presentation
 
-Watching the [18 minute video](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) will give you the best sense of how Julia presented the information in her `tidytext` presentation; however, we'll highlight a few things here. 
+Watching the [18 minute video](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) will give you the best sense of how Julia presented the information in her `tidytext` presentation; however, we'll highlight a few things here.
 
 {format: png}
 ![video for Julia's presentation](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_17)
@@ -260,67 +260,3 @@ In this lesson we've discussed the important pieces to designing and presenting 
 ![How To Give a Presentation](https://www.youtube.com/watch?v=H3mogwsaU-M)
 
 * [Slides](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/edit?usp=sharing)
-
-
-{quiz, id: quiz_02_presentations}
-
-### How To Give a Presentation quiz
-
-{choose-answers: 4}
-?1 Which scenario is an example of a presentation that was inspiring?
-
-C) An audience member listens to a presentation and is then excited to go back and figure out a problem they had been having previously using what they just learned from the presentation
-C) A person present at your presentation is excited about the analysis you presented and emails you to chat in more detail about what you did 
-o) An audience member jots down a few notes in a notebook during your presentation
-o) An audience member laughs at one of your jokes
-o) Someone at your presentation falls asleep while listening to you present
-o) Someone at your presentation tells you at the end of your presentation that they do similar work and they think your approach is wrong.
-
-{choose-answers: 4}
-?2 What should you do if someone asks you a really tough question during the Q&A and you don't know the answer?
-
-C) Think about it and then say "I don't know"
-C) Think about it, say "I don't know," and then ask the questioner to chat after to see if they have any interesting ideas!
-o) Think about it and then make up an answer
-o) Think about it and berate the person for asking a question that was too hard
-o) Just say the first thing that comes to your mind
-o) Panic, shut down, and stand there in awkward silence
-
-{choose-answers: 4}
-?3 Which of the following is the best color choice for slide design?
-
-C) Dark grey slides with white text
-C) White slides with Black Text
-C) Grey slides with Navy Text
-C) Navy slides with light gray text
-o) Light Blue slides with light green text
-o) White slides with light gray text
-o) black slides with dark gray text
-o) purple slides with light pink text
-o) red slides with green text
-o) green slides with red text
-
-{choose-answers: 4}
-?4 Which of the following is TRUE about presentations?
-
-C) Good ones take a while to prepare
-C) They can be nerve-wracking
-C) Good ones tell a story
-C) Good ones entertain, educate, and inspire
-o) Technology always works as expected
-o) Colors on your computer always look the same when presented
-o) Small text is fine
-o) The more blank and empty text on slides, the better
-
-?5 TRUE or FALSE: The best presentations are off the cuff and unpracticed.
-
-a) TRUE
-B) FALSE
-
-?5 TRUE or FALSE: The best presentations have been practiced beforehand.
-
-A) TRUE
-b) FALSE
-
-{/quiz}
-
