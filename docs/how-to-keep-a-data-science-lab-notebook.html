@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 9 How To Keep a Data Science Lab Notebook | Course Name</title>
+  <meta name="description" content="Description about Course/Book." />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 9 How To Keep a Data Science Lab Notebook | Course Name" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Description about Course/Book." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 9 How To Keep a Data Science Lab Notebook | Course Name" />
+  
+  <meta name="twitter:description" content="Description about Course/Book." />
+  
+
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  <link rel="shortcut icon" href="assets/DataTrail_favicon.ico" type="image/x-icon" />
+<link rel="prev" href="how-to-have-a-one-on-one-meeting.html"/>
+<link rel="next" href="which-graph-to-use-when.html"/>
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="assets/style_DataTrail.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<a href="https://www.datatrail.org/"><img src="https://github.com/datatrail-jhu/DataTrail_Template/raw/main/assets/DataTrail_logo.jpg" style="padding-left: 0px; padding-top: 8px;"</a>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>About this Course</a></li>
+<li class="chapter" data-level="1" data-path="types-of-communication.html"><a href="types-of-communication.html"><i class="fa fa-check"></i><b>1</b> Types of Communication</a>
+<ul>
+<li class="chapter" data-level="1.0.1" data-path="types-of-communication.html"><a href="types-of-communication.html#opinionated-communication"><i class="fa fa-check"></i><b>1.0.1</b> Opinionated Communication</a></li>
+<li class="chapter" data-level="1.0.2" data-path="types-of-communication.html"><a href="types-of-communication.html#types-of-communication-1"><i class="fa fa-check"></i><b>1.0.2</b> Types of Communication</a></li>
+<li class="chapter" data-level="1.0.3" data-path="types-of-communication.html"><a href="types-of-communication.html#reports"><i class="fa fa-check"></i><b>1.0.3</b> Reports</a></li>
+<li class="chapter" data-level="1.0.4" data-path="types-of-communication.html"><a href="types-of-communication.html#presentations"><i class="fa fa-check"></i><b>1.0.4</b> Presentations</a></li>
+<li class="chapter" data-level="1.0.5" data-path="types-of-communication.html"><a href="types-of-communication.html#blog-posts"><i class="fa fa-check"></i><b>1.0.5</b> Blog Posts</a></li>
+<li class="chapter" data-level="1.0.6" data-path="types-of-communication.html"><a href="types-of-communication.html#meetings"><i class="fa fa-check"></i><b>1.0.6</b> Meetings</a></li>
+<li class="chapter" data-level="1.0.7" data-path="types-of-communication.html"><a href="types-of-communication.html#slides-and-video"><i class="fa fa-check"></i><b>1.0.7</b> Slides and Video</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="data-science-reports.html"><a href="data-science-reports.html"><i class="fa fa-check"></i><b>2</b> Data Science Reports</a>
+<ul>
+<li class="chapter" data-level="2.0.1" data-path="data-science-reports.html"><a href="data-science-reports.html#what-to-include"><i class="fa fa-check"></i><b>2.0.1</b> What To Include</a></li>
+<li class="chapter" data-level="2.0.2" data-path="data-science-reports.html"><a href="data-science-reports.html#what-to-avoid"><i class="fa fa-check"></i><b>2.0.2</b> What to Avoid</a></li>
+<li class="chapter" data-level="2.0.3" data-path="data-science-reports.html"><a href="data-science-reports.html#brief-reports"><i class="fa fa-check"></i><b>2.0.3</b> Brief Reports</a></li>
+<li class="chapter" data-level="2.0.4" data-path="data-science-reports.html"><a href="data-science-reports.html#full-report"><i class="fa fa-check"></i><b>2.0.4</b> Full Report</a></li>
+<li class="chapter" data-level="2.0.5" data-path="data-science-reports.html"><a href="data-science-reports.html#summary"><i class="fa fa-check"></i><b>2.0.5</b> Summary</a></li>
+<li class="chapter" data-level="2.0.6" data-path="data-science-reports.html"><a href="data-science-reports.html#additional-resources"><i class="fa fa-check"></i><b>2.0.6</b> Additional Resources</a></li>
+<li class="chapter" data-level="2.0.7" data-path="data-science-reports.html"><a href="data-science-reports.html#slides-and-video-1"><i class="fa fa-check"></i><b>2.0.7</b> Slides and Video</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html"><i class="fa fa-check"></i><b>3</b> How To Give a Presentation</a>
+<ul>
+<li class="chapter" data-level="3.0.1" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#presentation-goals"><i class="fa fa-check"></i><b>3.0.1</b> Presentation Goals</a></li>
+<li class="chapter" data-level="3.0.2" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#know-your-audience"><i class="fa fa-check"></i><b>3.0.2</b> Know your Audience</a></li>
+<li class="chapter" data-level="3.0.3" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#mind-your-audience"><i class="fa fa-check"></i><b>3.0.3</b> Mind your Audience</a></li>
+<li class="chapter" data-level="3.0.4" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#prepare"><i class="fa fa-check"></i><b>3.0.4</b> Prepare</a></li>
+<li class="chapter" data-level="3.0.5" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#tell-a-story"><i class="fa fa-check"></i><b>3.0.5</b> Tell a Story</a></li>
+<li class="chapter" data-level="3.0.6" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#slide-design"><i class="fa fa-check"></i><b>3.0.6</b> Slide Design</a></li>
+<li class="chapter" data-level="3.0.7" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#presenting"><i class="fa fa-check"></i><b>3.0.7</b> Presenting</a></li>
+<li class="chapter" data-level="3.0.8" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#practice"><i class="fa fa-check"></i><b>3.0.8</b> Practice</a></li>
+<li class="chapter" data-level="3.0.9" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#handling-questions"><i class="fa fa-check"></i><b>3.0.9</b> Handling Questions</a></li>
+<li class="chapter" data-level="3.0.10" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#example-presentation-apis"><i class="fa fa-check"></i><b>3.0.10</b> Example Presentation: APIs</a></li>
+<li class="chapter" data-level="3.0.11" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#example-presentation-analysis"><i class="fa fa-check"></i><b>3.0.11</b> Example Presentation: Analysis</a></li>
+<li class="chapter" data-level="3.0.12" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#summary-1"><i class="fa fa-check"></i><b>3.0.12</b> Summary</a></li>
+<li class="chapter" data-level="3.0.13" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#additional-resources-1"><i class="fa fa-check"></i><b>3.0.13</b> Additional Resources</a></li>
+<li class="chapter" data-level="3.0.14" data-path="how-to-give-a-presentation.html"><a href="how-to-give-a-presentation.html#slides-and-video-2"><i class="fa fa-check"></i><b>3.0.14</b> Slides and Video</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="how-to-present-to-a-general-audience.html"><a href="how-to-present-to-a-general-audience.html"><i class="fa fa-check"></i><b>4</b> How To Present to a General Audience</a>
+<ul>
+<li class="chapter" data-level="4.0.1" data-path="how-to-present-to-a-general-audience.html"><a href="how-to-present-to-a-general-audience.html#the-audience"><i class="fa fa-check"></i><b>4.0.1</b> The Audience</a></li>
+<li class="chapter" data-level="4.0.2" data-path="how-to-present-to-a-general-audience.html"><a href="how-to-present-to-a-general-audience.html#the-goal"><i class="fa fa-check"></i><b>4.0.2</b> The Goal</a></li>
+<li class="chapter" data-level="4.0.3" data-path="how-to-present-to-a-general-audience.html"><a href="how-to-present-to-a-general-audience.html#the-presentation"><i class="fa fa-check"></i><b>4.0.3</b> The Presentation</a></li>
+<li class="chapter" data-level="4.0.4" data-path="how-to-present-to-a-general-audience.html"><a href="how-to-present-to-a-general-audience.html#general-presentation-example"><i class="fa fa-check"></i><b>4.0.4</b> General Presentation Example</a></li>
+<li class="chapter" data-level="4.0.5" data-path="how-to-present-to-a-general-audience.html"><a href="how-to-present-to-a-general-audience.html#summary-2"><i class="fa fa-check"></i><b>4.0.5</b> Summary</a></li>
+<li class="chapter" data-level="4.0.6" data-path="how-to-present-to-a-general-audience.html"><a href="how-to-present-to-a-general-audience.html#slides-and-video-3"><i class="fa fa-check"></i><b>4.0.6</b> Slides and Video</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html"><i class="fa fa-check"></i><b>5</b> How To Present to a Technical Audience</a>
+<ul>
+<li class="chapter" data-level="5.0.1" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html#the-audience-1"><i class="fa fa-check"></i><b>5.0.1</b> The Audience</a></li>
+<li class="chapter" data-level="5.0.2" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html#the-goal-1"><i class="fa fa-check"></i><b>5.0.2</b> The Goal</a></li>
+<li class="chapter" data-level="5.0.3" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html#the-presentation-1"><i class="fa fa-check"></i><b>5.0.3</b> The Presentation</a></li>
+<li class="chapter" data-level="5.0.4" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html#emphasize-1"><i class="fa fa-check"></i><b>5.0.4</b> Emphasize</a></li>
+<li class="chapter" data-level="5.0.5" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html#de-emphasize-1"><i class="fa fa-check"></i><b>5.0.5</b> De-emphasize</a></li>
+<li class="chapter" data-level="5.0.6" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html#technical-presentation-example"><i class="fa fa-check"></i><b>5.0.6</b> Technical Presentation Example</a></li>
+<li class="chapter" data-level="5.0.7" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html#general-vs-technical"><i class="fa fa-check"></i><b>5.0.7</b> General vs Technical</a></li>
+<li class="chapter" data-level="5.0.8" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html#summary-3"><i class="fa fa-check"></i><b>5.0.8</b> Summary</a></li>
+<li class="chapter" data-level="5.0.9" data-path="how-to-present-to-a-technical-audience.html"><a href="how-to-present-to-a-technical-audience.html#slides-and-video-4"><i class="fa fa-check"></i><b>5.0.9</b> Slides and Video</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="how-to-write-a-blog-post.html"><a href="how-to-write-a-blog-post.html"><i class="fa fa-check"></i><b>6</b> How To Write a Blog Post</a>
+<ul>
+<li class="chapter" data-level="6.0.1" data-path="how-to-write-a-blog-post.html"><a href="how-to-write-a-blog-post.html#general-outline"><i class="fa fa-check"></i><b>6.0.1</b> General Outline</a></li>
+<li class="chapter" data-level="6.0.2" data-path="how-to-write-a-blog-post.html"><a href="how-to-write-a-blog-post.html#types-of-blog-posts"><i class="fa fa-check"></i><b>6.0.2</b> Types of Blog Posts</a></li>
+<li class="chapter" data-level="6.0.3" data-path="how-to-write-a-blog-post.html"><a href="how-to-write-a-blog-post.html#why-blog"><i class="fa fa-check"></i><b>6.0.3</b> Why Blog?</a></li>
+<li class="chapter" data-level="6.0.4" data-path="how-to-write-a-blog-post.html"><a href="how-to-write-a-blog-post.html#blog-etiquette"><i class="fa fa-check"></i><b>6.0.4</b> Blog Etiquette</a></li>
+<li class="chapter" data-level="6.0.5" data-path="how-to-write-a-blog-post.html"><a href="how-to-write-a-blog-post.html#summary-4"><i class="fa fa-check"></i><b>6.0.5</b> Summary</a></li>
+<li class="chapter" data-level="6.0.6" data-path="how-to-write-a-blog-post.html"><a href="how-to-write-a-blog-post.html#additional-resources-2"><i class="fa fa-check"></i><b>6.0.6</b> Additional Resources</a></li>
+<li class="chapter" data-level="6.0.7" data-path="how-to-write-a-blog-post.html"><a href="how-to-write-a-blog-post.html#slides-and-video-5"><i class="fa fa-check"></i><b>6.0.7</b> Slides and Video</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="participating-in-meetings.html"><a href="participating-in-meetings.html"><i class="fa fa-check"></i><b>7</b> Participating in Meetings</a>
+<ul>
+<li class="chapter" data-level="7.0.1" data-path="participating-in-meetings.html"><a href="participating-in-meetings.html#meeting-etiquette"><i class="fa fa-check"></i><b>7.0.1</b> Meeting Etiquette</a></li>
+<li class="chapter" data-level="7.0.2" data-path="participating-in-meetings.html"><a href="participating-in-meetings.html#how-to-host-a-meeting"><i class="fa fa-check"></i><b>7.0.2</b> How to Host A Meeting</a></li>
+<li class="chapter" data-level="7.0.3" data-path="participating-in-meetings.html"><a href="participating-in-meetings.html#how-to-participate-in-a-meeting"><i class="fa fa-check"></i><b>7.0.3</b> How to Participate in a Meeting</a></li>
+<li class="chapter" data-level="7.0.4" data-path="participating-in-meetings.html"><a href="participating-in-meetings.html#summary-5"><i class="fa fa-check"></i><b>7.0.4</b> Summary</a></li>
+<li class="chapter" data-level="7.0.5" data-path="participating-in-meetings.html"><a href="participating-in-meetings.html#additional-resources-3"><i class="fa fa-check"></i><b>7.0.5</b> Additional Resources</a></li>
+<li class="chapter" data-level="7.0.6" data-path="participating-in-meetings.html"><a href="participating-in-meetings.html#slides-and-video-6"><i class="fa fa-check"></i><b>7.0.6</b> Slides and Video</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="how-to-have-a-one-on-one-meeting.html"><a href="how-to-have-a-one-on-one-meeting.html"><i class="fa fa-check"></i><b>8</b> How To Have a One-on-One Meeting</a>
+<ul>
+<li class="chapter" data-level="8.0.1" data-path="how-to-have-a-one-on-one-meeting.html"><a href="how-to-have-a-one-on-one-meeting.html#consulting"><i class="fa fa-check"></i><b>8.0.1</b> Consulting</a></li>
+<li class="chapter" data-level="8.0.2" data-path="how-to-have-a-one-on-one-meeting.html"><a href="how-to-have-a-one-on-one-meeting.html#what-to-expect"><i class="fa fa-check"></i><b>8.0.2</b> What to Expect</a></li>
+<li class="chapter" data-level="8.0.3" data-path="how-to-have-a-one-on-one-meeting.html"><a href="how-to-have-a-one-on-one-meeting.html#follow-up-meetings"><i class="fa fa-check"></i><b>8.0.3</b> Follow-up Meetings</a></li>
+<li class="chapter" data-level="8.0.4" data-path="how-to-have-a-one-on-one-meeting.html"><a href="how-to-have-a-one-on-one-meeting.html#common-pitfalls"><i class="fa fa-check"></i><b>8.0.4</b> Common Pitfalls</a></li>
+<li class="chapter" data-level="8.0.5" data-path="how-to-have-a-one-on-one-meeting.html"><a href="how-to-have-a-one-on-one-meeting.html#data-science-ethics"><i class="fa fa-check"></i><b>8.0.5</b> Data Science Ethics</a></li>
+<li class="chapter" data-level="8.0.6" data-path="how-to-have-a-one-on-one-meeting.html"><a href="how-to-have-a-one-on-one-meeting.html#summary-6"><i class="fa fa-check"></i><b>8.0.6</b> Summary</a></li>
+<li class="chapter" data-level="8.0.7" data-path="how-to-have-a-one-on-one-meeting.html"><a href="how-to-have-a-one-on-one-meeting.html#slides-and-video-7"><i class="fa fa-check"></i><b>8.0.7</b> Slides and Video</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="how-to-keep-a-data-science-lab-notebook.html"><a href="how-to-keep-a-data-science-lab-notebook.html"><i class="fa fa-check"></i><b>9</b> How To Keep a Data Science Lab Notebook</a>
+<ul>
+<li class="chapter" data-level="9.0.1" data-path="how-to-keep-a-data-science-lab-notebook.html"><a href="how-to-keep-a-data-science-lab-notebook.html#why-keep-a-lab-notebook"><i class="fa fa-check"></i><b>9.0.1</b> Why Keep a Lab Notebook</a></li>
+<li class="chapter" data-level="9.0.2" data-path="how-to-keep-a-data-science-lab-notebook.html"><a href="how-to-keep-a-data-science-lab-notebook.html#what-to-put-in-your-lab-notebook"><i class="fa fa-check"></i><b>9.0.2</b> What to Put in Your Lab Notebook</a></li>
+<li class="chapter" data-level="9.0.3" data-path="how-to-keep-a-data-science-lab-notebook.html"><a href="how-to-keep-a-data-science-lab-notebook.html#when-to-update"><i class="fa fa-check"></i><b>9.0.3</b> When To Update</a></li>
+<li class="chapter" data-level="9.0.4" data-path="how-to-keep-a-data-science-lab-notebook.html"><a href="how-to-keep-a-data-science-lab-notebook.html#benchling-data-science-lab-notebook"><i class="fa fa-check"></i><b>9.0.4</b> Benchling: Data Science Lab Notebook</a></li>
+<li class="chapter" data-level="9.0.5" data-path="how-to-keep-a-data-science-lab-notebook.html"><a href="how-to-keep-a-data-science-lab-notebook.html#slides-and-video-8"><i class="fa fa-check"></i><b>9.0.5</b> Slides and Video</a></li>
+<li class="chapter" data-level="9.0.6" data-path="how-to-keep-a-data-science-lab-notebook.html"><a href="how-to-keep-a-data-science-lab-notebook.html#how-to-keep-a-data-science-lab-notebook-quiz"><i class="fa fa-check"></i><b>9.0.6</b> How To Keep a Data Science Lab Notebook quiz</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="which-graph-to-use-when.html"><a href="which-graph-to-use-when.html"><i class="fa fa-check"></i><b>10</b> Which Graph to Use When</a>
+<ul>
+<li class="chapter" data-level="10.0.1" data-path="which-graph-to-use-when.html"><a href="which-graph-to-use-when.html#exploratory-vs.-explanatory"><i class="fa fa-check"></i><b>10.0.1</b> Exploratory vs. Explanatory</a></li>
+<li class="chapter" data-level="10.0.2" data-path="which-graph-to-use-when.html"><a href="which-graph-to-use-when.html#which-graph"><i class="fa fa-check"></i><b>10.0.2</b> Which Graph</a></li>
+<li class="chapter" data-level="10.0.3" data-path="which-graph-to-use-when.html"><a href="which-graph-to-use-when.html#summary-8"><i class="fa fa-check"></i><b>10.0.3</b> Summary</a></li>
+<li class="chapter" data-level="10.0.4" data-path="which-graph-to-use-when.html"><a href="which-graph-to-use-when.html#slides-and-video-9"><i class="fa fa-check"></i><b>10.0.4</b> Slides and Video</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="about-the-authors.html"><a href="about-the-authors.html"><i class="fa fa-check"></i>About the Authors</a></li>
+<li class="chapter" data-level="11" data-path="references-2.html"><a href="references-2.html"><i class="fa fa-check"></i><b>11</b> References</a></li>
+<li class="divider"></li>
+<p style="text-align:center;"> <a href="https://github.com/jhudsl/OTTR_Template" target="blank" > This content was published with</a> <a href="https://bookdown.org/" target="blank"> bookdown by: </a> </p>
+<p style="text-align:center;"> <a href="https://www.datatrail.org/"> Data Trail </a></p>
+<a href="https://www.datatrail.org/"><img src="https://github.com/datatrail-jhu/DataTrail_Template/raw/main/assets/DataTrail_logo.jpg" style=" width: 80%; filter: grayscale(100%); padding-left: 40px; padding-top: 8px; vertical-align: top "</a>
+<p style="text-align:center; font-size: 12px;"> <a href="https://github.com/rstudio4edu/rstudio4edu-book/"> Style adapted from: rstudio4edu-book </a> <a href ="https://creativecommons.org/licenses/by/2.0/"> (CC-BY 2.0) </a></p>
+<p style="padding-left: 40px;"><div class="trapezoid" style = "padding-left: 40px;"><span>  <a href="https://forms.gle/VWaJYc3zATe3qxYC9"> Click here to provide feedback</a> <img src="assets/itcr_arrow.png" style=" width: 10%" ></span></div></p>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Course Name</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<head>
+  <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0">
+  <!--script src="https://kit.fontawesome.com/6a26f47516.js"></script-->
+  <!--<script src="assets/hideOutput.js"></script>-->
+  <link href="assets/style_DataTrail.css" rel="stylesheet">
+</head>
+        
+
+
+<div class="hero-image-container"> 
+  <img class= "hero-image" src="assets/DataTrail.jpg">
+</div>
+<div id="how-to-keep-a-data-science-lab-notebook" class="section level1" number="9">
+<h1><span class="header-section-number">Chapter 9</span> How To Keep a Data Science Lab Notebook</h1>
+<p>Lab notebooks are used by every experimental scientist - these are the people who work in a laboratory, carry out experiments, and often wear lab coats and safety goggles. Lab notebooks are used daily to track the details of how each experiment was carried out <em>and</em> the results of the experiment. The goal of lab notebooks for experimentalists is to track the details of what they’ve done in the lab so that <em>they or anyone else</em> else could repeat what had been done previously, given only what has been included in that scientists’ laboratory notebook. As such, they are <em>not</em> polished reports that only include what conditions were eventually used and a clean version of the reports. Rather, they include both successful and failed experiments, messy tables of results, successful projects, failed projects, and information that never ends up getting published. The <strong>laboratory notebook is a complete history</strong> of an experimentalists’ work.</p>
+<p>A <strong>data science lab notebook</strong> is <em>very</em> similar. It should have notes and results form <em>every</em> project you’ve worked on, not just the ones that led to the most interesting results. It should include notes about what you tried, what worked and what didn’t work, issues you’ve run into, and solutions to those issues. It should include a daily account of what you’ve done, what you’ve learned, and what you found. It should be electronic (you will be doing almost all of your work on the computer anyway!) and it should be saved in the cloud.</p>
+<p>In this lesson we’ll discuss <em>why</em> you should keep a lab notebook, <em>what</em> you should put in your lab notebook, and <em>when</em> it should be updated. Additionally, we’ll walk through one commonly-used electronic lab notebook so that you can get started on using one for your projects.</p>
+<div id="why-keep-a-lab-notebook" class="section level3" number="9.0.1">
+<h3><span class="header-section-number">9.0.1</span> Why Keep a Lab Notebook</h3>
+<p>You’ve already got email, a Google account, notes you’ve jotted down on random post-it notes, and discussions happening on Slack – why add something else on top of what you’ve already got? Well, first of all, a lab notebook helps <strong>pull all the sources of information into one single location</strong>. Your data science lab notebook will contain information discussed in email, projects whose results you’ve posted to Slack, and conclusions that you include in presentations you’ve saved in Google Slides. However, it will <strong>all</strong> be saved in one single place: your lab notebook.</p>
+<p>In addition to pulling all the different sources of information into a single location, keeping a lab notebook is important because the <strong>human memory is fallible</strong>. There <em>will</em> be a situation where you assume you’re going to remember a discussion you had or something your boss asked you do to; however, when you return to it, you’ll forget the details of the conversation. By keeping this type of information in your lab notebook, you will not have to go back to the other person and explain that you forgot what they said. Rather, you’ll be able to reference what’s in your lab notebook and move on with your life. Your <strong>data science lab notebook will be your memory</strong>.</p>
+<p>Finally, lab notebooks take some effort up front, but that effort pays off by making <strong>pulling reports and presentations together <em>much</em> easier</strong>. While you’ll be including a great deal of information in your lab notebook for each project, when you go to present this information or write a report, it will all be in one place and you’ll be able to pull that report or presentation together much more quickly than you would be able to otherwise if all the results were in a different place.</p>
+<p>In summary, keeping a lab notebook is helpful because (1) it keeps you organized by putting all your projects’ information in a single location, (2) helps you out when you need to find information you knew previously, and (3) it minimizes the effort on your end when it comes time to report on a project.</p>
+</div>
+<div id="what-to-put-in-your-lab-notebook" class="section level3" number="9.0.2">
+<h3><span class="header-section-number">9.0.2</span> What to Put in Your Lab Notebook</h3>
+<p>Now that we have an understanding of why you want to keep a data science lab notebook, what exactly should you put <em>in</em> that notebook?</p>
+<p>First of all, like GitHub, your data science lab notebook should be organized by projects. Within each project, you’ll want to record, for each day that you’ve worked on that project <em>exactly</em> what it is you did for that project each day. Thus, each <strong>record</strong> within a project should include:</p>
+<ul>
+<li>The Date</li>
+<li>What you Did
+<ul>
+<li>what technology you used</li>
+<li>why you used the approach you used</li>
+</ul></li>
+<li>Results
+<ul>
+<li>any problems you had</li>
+<li>any solutions you came up with</li>
+</ul></li>
+<li>Links to Outside Resources
+<ul>
+<li>GitHub repository</li>
+<li>Google Drive link with more results</li>
+<li>Google Doc with further details</li>
+<li>etc.</li>
+</ul></li>
+<li>Future Plans</li>
+</ul>
+<p>By including this information, when you look back in the future, you’ll have the full picture of what you did for that project on the day.</p>
+<p>Additionally, because this will all be stored electronically, this information will be searchable. So, if in the future you run into a problem and remember having run into a similar problem previously, you can search electronically to remind yourself how you solved the problem the last time you encountered it – this will save you <em>so</em> much time. Be sure to <strong>always include problems you ran into and solutions you figured out to those problems</strong>. It will be worth the time and effort down the line.</p>
+</div>
+<div id="when-to-update" class="section level3" number="9.0.3">
+<h3><span class="header-section-number">9.0.3</span> When To Update</h3>
+<p>Your electronic lab notebook should be <strong>updated daily</strong>. In fact, after you finish working on a project for the day, it’s good to get in the habit of completing your lab notebook entry before moving onto the next project you’ll be working on that day. In fact, it’s OK to update your lab notebook for a project more than once a day.</p>
+<p>That said, it’s <em>not</em> ok to update everything at the end of the week or once a month. This is because you won’t remember the details of what you did or the problems you ran into and solutions you came up with at this point in time. The sooner you update your lab notebook the more accurate your notebook will be and the more helpful that document will be in the future.</p>
+</div>
+<div id="benchling-data-science-lab-notebook" class="section level3" number="9.0.4">
+<h3><span class="header-section-number">9.0.4</span> Benchling: Data Science Lab Notebook</h3>
+<p>Now that we’ve discussed what a data science lab notebook is and what information should be included in that lab notebook, let’s walk through an actual example using an electronic lab notebook. <a href="https://benchling.com/">Benchling</a> is one of many electronic lab notebooks. Benchling, like most electronic lab notebooks, have been designed with experimentalists (biologists, chemists, etc.) in mind. Thus, there will be features of Benchling that are helpful to those groups that we will not use or discuss. However, the ability to keep notes about projects on a daily basis is certainly a capability within Benchling. Thus, we’ll use it here for this example. Feel free to look around on Google for other electronic lab notebooks; however, it’s best to pick one and stick to it. This way, your notes will all be in one place rather than across multiple platforms over time.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g2bfdb07292_0_151" alt="Benchling" /></p>
+<div id="sign-up" class="section level4" number="9.0.4.1">
+<h4><span class="header-section-number">9.0.4.1</span> Sign Up</h4>
+<p>To get started with your own data science lab notebook, you’ll first need an account with Benchling. To do so, navigate to <a href="https://benchling.com/">https://benchling.com/</a> and click on “Sign Up” in the upper right-hand corner of the screen.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_187" alt="SIGN UP" /></p>
+<p>You’ll be brought to a new screen. It’s easiest to simply click “SIGN IN WITH GOOGLE.”</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_2" alt="SIGN IN WITH GOOGLE" /></p>
+<p>On the next screen, enter your Google email address and click “Next”.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_8" alt="Enter Google Username" /></p>
+<p>Then, enter your password for that account. Again, click “Next”.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_13" alt="Enter Google Password" /></p>
+<p>Then, fill out the information for the username you’ll use on Benchling. Again, it’s best for your username to be consistent across platforms. However, if that username is taken, you can use a different (but still professional and appropriate!) username.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_18" alt="Fill out Information for Benchling" /></p>
+<p>Once all the information has been completed, click “Create Account”.</p>
+<p>Benchling will then ask that you set up your profile. It’s required to include a Company Name and a Phone number at this point in time. Team and Role are optional, so include those at this time if you want. Once this form has been completed, click Next.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_23" alt="Profile Set Up" /></p>
+<p>Congrats! You know have a Benchling account! You’ll be brought to a screen where Benchling will ask whether or not you’re here to “Take Notes” or to “Start Cloning.” Since we’re here to take notes and do data science and are not here to do molecular biology, click “Take Notes.”</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_28" alt="Take Notes" /></p>
+</div>
+<div id="create-a-project" class="section level4" number="9.0.4.2">
+<h4><span class="header-section-number">9.0.4.2</span> Create A Project</h4>
+<p>You’ll now set up your first <strong>project</strong>. In the last course you were working on the Final Project for this Course Set. In the next course, you’ll be adding this project to your portfolio on your website. To do so, you’ll want to record changes and updates you make to this project on Benchling. So, let’s create a project called “DataTrail: Final Project” now. Type that in the Project Title box now and click “Create Project”</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_32" alt="Create Project" /></p>
+</div>
+<div id="create-an-entry" class="section level4" number="9.0.4.3">
+<h4><span class="header-section-number">9.0.4.3</span> Create An Entry</h4>
+<p>You’ll now be introduced to <strong>entries</strong>. You’ll create entries within projects. This will be where you includes notes and results each day. Read the information on this screen, note that some of it will not apply to you because it’s geared toward biologists, and then click “Next.”</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_39" alt="Introducing Entries" /></p>
+<p>You’ll then be prompted to create your first entry. We’ll call this entry “data analysis.” We’ll include any details about edits or results from the analysis in this entry. Type “data analysis” in the “Entry Title” box and then click “Start writing”.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_44" alt="Create Entry" /></p>
+<p>You’ve now got your data science lab notebook set up and ready to go. There will be circles on your screen to help you orient yourself to the Benchling platform. Click on these to learn more about what you’re looking at. Once you click on them and click “Got It” in the box that appears, these circles will disappear.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_53" alt="Benchling Screen" /></p>
+<p>What you’re looking at here is the screen you’ll become very familiar with as you get used wot working within an electronic lab notebook. We’ll walk through a few important pieces for our purposes now!</p>
+<p>Within each entry, you’ll add information. All notes you add a project should be entered under the date on which the analysis or step was completed.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_61" alt="Add notes under appropriate date" /></p>
+<p>To add a new date within an entry, click on “Insert” and select “New day” from the drop down menu.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_49" alt="Insert New Date" /></p>
+<p>A new date will be added to your entry.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_69" alt="New date added" /></p>
+<p>Benchling will make its best guess as to which date you wanted to be entered; however, if this date is not correct, simply click on the date and change the date to the appropriate date from the calendar that appears.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_74" alt="Select Date" /></p>
+<p>Note that Benchling forces entries to be in chronological order. This makes good sense in a lab notebook since previous work has to happen before work today or future work.</p>
+<p>In addition to text, entries can include hyperlinks, code, and images. To include a hyperlink, highlight the text you’d like to be the hyperlink</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_93" alt="Highlight text and add hyperlink" /></p>
+<p>Then, click on the hyperlink icon along the menu at the top, and then enter the URL you want to link to in the URL box that appears. Click “Save.”</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_98" alt="Add Link" /></p>
+<p>The hyperlink will appear in the text.</p>
+<p>Code and Attachments (images, etc.) can be added from the “Insert” drop-down menu. For example, to include code, you would click on “Insert” and then select “Code”.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_103" alt="Insert Code" /></p>
+<p>A code box will appear in your entry. Code can be typed or pasted in this box.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_108" alt="Code box within entry" /></p>
+</div>
+<div id="create-a-new-entry" class="section level4" number="9.0.4.4">
+<h4><span class="header-section-number">9.0.4.4</span> Create A New Entry</h4>
+<p>If you want to create a different entry within the same project, you would click on the plus sign “Create…” icon in the Projects menu bar at the left. Select “Entry” from the drop down menu.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_79" alt="Create New Entry" /></p>
+<p>A new Untitled Entry will open up. You’ll see a new tab along the top. You’ll edit the title of this entry and Include notes as previously.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_88" alt="Untitled Entry" /></p>
+</div>
+<div id="create-a-new-project" class="section level4" number="9.0.4.5">
+<h4><span class="header-section-number">9.0.4.5</span> Create A New Project</h4>
+<p>You now know how to create and edit entries within a project; however, you’ll almost certainly be working on multiple projects. You’ll want to be able to keep these projects separate and organized. Thus, notes and results from another project should be stored within entries in a separate project.</p>
+<p>To create a new Project, you’ll first want to click on “Projects” at the top left of the Projects panel. This will take you from the entries within the current project you’re working on to display the projects you have on Benchling.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_125" alt="To create a new project" /></p>
+<p>Now if you click on the plus sign, you will create a new project.</p>
+<p>A box will appear. You would fill out this information to create a new project within your Benchling account.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_120" alt="Create project" /></p>
+</div>
+<div id="calendar-view" class="section level4" number="9.0.4.6">
+<h4><span class="header-section-number">9.0.4.6</span> Calendar View</h4>
+<p>Now that we’ve discussed projects and entries, there’s an additional nice feature of Benchling. There is a calendar view within Benchling with will let you know what entries and what projects you’ve worked on on what days.To access it you would click on the benchling icon at the top left-hand of the screen.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_130" alt="Click on home icon" /></p>
+<p>Then, click on today’s date.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_136" alt="Click on today’s date" /></p>
+<p>A calendar view will appear. Each project will be in a different color and each entry will appear on the days of the calendar on which that entry was worked on. This is a helpful way to determine what you were working on and when.</p>
+<p>{format: png}
+<img src="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&amp;pageid=g3fd086c2d1_0_141" alt="Calendar view from Benchling" /></p>
+<p>While Benchling has a number of other features, these will get you started. Be sure to add entries within projects and update them on each and every day on which you work on that project. It is sure to help you down the line!</p>
+</div>
+<div id="summary-7" class="section level4" number="9.0.4.7">
+<h4><span class="header-section-number">9.0.4.7</span> Summary</h4>
+<p>In this lesson we discussed why lab notebooks are important, what information should be included in them, and when to update them. We also introduced you to Benchling, a free, online electronic lab notebook that you can use to keep track of every aspect of your data science projects.</p>
+</div>
+</div>
+<div id="slides-and-video-8" class="section level3" number="9.0.5">
+<h3><span class="header-section-number">9.0.5</span> Slides and Video</h3>
+<div class="figure">
+<img src="https://www.youtube.com/watch?v=wSglleK4HlU" alt="" />
+<p class="caption">How To Keep a Data Science Lab Notebook</p>
+</div>
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/edit?usp=sharing">Slides</a></li>
+</ul>
+<p>{quiz, id: quiz_08_notebook}</p>
+</div>
+<div id="how-to-keep-a-data-science-lab-notebook-quiz" class="section level3" number="9.0.6">
+<h3><span class="header-section-number">9.0.6</span> How To Keep a Data Science Lab Notebook quiz</h3>
+<p>{choose-answers: 4}
+? How often should you update your electronic lab notebook?</p>
+<ol start="3" style="list-style-type: upper-alpha">
+<li>daily</li>
+<li>at least every day</li>
+<li>Each project should have updates for each day you worked on that project</li>
+</ol>
+<ol start="15" style="list-style-type: lower-alpha">
+<li>weekly</li>
+<li>every minute</li>
+<li>annually</li>
+<li>quarterly</li>
+<li>when you think of it</li>
+<li>right before you have to present your work</li>
+</ol>
+<p>{choose-answers: 4}
+? Which of these is NOT a reason to keep a data science lab notebook?</p>
+<ol start="3" style="list-style-type: upper-alpha">
+<li>it won’t take you any extra time to use one</li>
+<li>it forces you to only take the level of notes included in a brief report</li>
+<li>it allows you to not use GitHub</li>
+</ol>
+<ol start="15" style="list-style-type: lower-alpha">
+<li>the human memory is not perfect</li>
+<li>having one helps when it comes time to generate a report</li>
+<li>having one helps when it comes time to make a presentation</li>
+<li>it keeps information for all projects in a single place</li>
+<li>it is searchable for when you run into a problem you’ve seen previously</li>
+</ol>
+<p>{choose-answers: 4}
+? Which of these is NOT a capability of Benchling?</p>
+<ol start="3" style="list-style-type: upper-alpha">
+<li>using git for version control</li>
+<li>running R code</li>
+<li>retrieving information from an API</li>
+<li>web scraping</li>
+</ol>
+<ol start="15" style="list-style-type: lower-alpha">
+<li>Note-taking</li>
+<li>Including plots in entries</li>
+<li>including code in entries</li>
+<li>including hyperlinks in entries</li>
+<li>changing date on an entry</li>
+<li>deleting a post</li>
+<li>organizing by project</li>
+<li>including multiple entries within a project</li>
+</ol>
+<p>{/quiz}</p>
+
+</div>
+</div>
+<hr>
+<center> 
+  <div class="footer">
+      All illustrations <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY. </a>
+      <br>
+      All other materials <a href= "https://creativecommons.org/licenses/by/4.0/"> CC-BY </a> unless noted otherwise.
+  </div>
+</center>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="how-to-have-a-one-on-one-meeting.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="which-graph-to-use-when.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
