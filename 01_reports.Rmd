@@ -2,7 +2,7 @@
 
 The goal of a written report is to effectively communicate your full analysis to your readers. This means that your writing should be clear, your figures should be helpful, and your audience should be able to understand what you did to reach the conclusions your presenting.
 
-In the Course Set thus far we've discussed Markdown and RMarkdown documents. We'll continue to use this format throughout this lesson. We won't discuss the basics of RMarkdown, however, as that has been covered in an earlier lesson. 
+In the Course Set thus far we've discussed Markdown and RMarkdown documents. We'll continue to use this format throughout this lesson. We won't discuss the basics of RMarkdown, however, as that has been covered in an earlier lesson.
 
 Specifically, in this lesson we'll discuss what to include in your data science reports, using the RMarkdown format to guide us.
 
@@ -10,9 +10,9 @@ Specifically, in this lesson we'll discuss what to include in your data science 
 
 Every data science report should include the following elements:
 
-- A Title 
-- An Introduction 
-- How you analyzed the data 
+- A Title
+- An Introduction
+- How you analyzed the data
 - Your results
 - Any conclusions
 - All references
@@ -24,7 +24,7 @@ The title of your report should be as **informative** and as **short** as possib
 For example, what if you had completed a project analyzing the NHANES dataset? Which of the following titles would be better?
 
 * "Analyzing NHANES"
-* "Data from the NHANES study shows that diet is related to overall health" 
+* "Data from the NHANES study shows that diet is related to overall health"
 
 Well, "Analyzing NHANES" is shorter, but it's not informative at all. Rather "Data from the NHANES study shows that diet is related to overall health" is an informative but concise title that lets readers know that the data science question being asked as to do with diet and health as well as letting readers know that there is a relationship between diet and overall health.
 
@@ -36,11 +36,11 @@ How about another example -- which title is best out of the following?:
 * Phenotype Prediction is Helpful
 * Sample Genomic Data that Are Available Publicly on the Internet Can Be Used For Prediction of Critical Phenotype Information
 
-Let's first talk about which one *is* the best title. Then we can discuss the issues with the other possible titles. "Improving the Value of Public Genomic Data with Phenotype Prediction" is the best title here. Even if you don't know what genomic data are or what a phenotype is, you know that publicly-available data are going to be used for some type of prediction. And, you know that in this presentation you'll learn about what genomic data and phenotypes are. 
+Let's first talk about which one *is* the best title. Then we can discuss the issues with the other possible titles. "Improving the Value of Public Genomic Data with Phenotype Prediction" is the best title here. Even if you don't know what genomic data are or what a phenotype is, you know that publicly-available data are going to be used for some type of prediction. And, you know that in this presentation you'll learn about what genomic data and phenotypes are.
 
 As for the other titles, "Public Data and Prediction", "Using Public Genomic Data", and "Phenotype Prediction is Helpful" are short but not fully informative. They don't tell you what the question and the answer of what will be included in the report are.
 
-On the other end of the spectrum, "Sample Genomic Data that Are Available Publicly on the Internet Can Be Used For Prediction of Critical Phenotype Information" tells you the question and the answer but it does so in a very long and windy way. This title is too long and confusing and should be edited before being used in a report. 
+On the other end of the spectrum, "Sample Genomic Data that Are Available Publicly on the Internet Can Be Used For Prediction of Critical Phenotype Information" tells you the question and the answer but it does so in a very long and windy way. This title is too long and confusing and should be edited before being used in a report.
 
 In your your R Markdown document where you're writing your report, you'll want to include a helpful title. The title of your report can always be edited in the YAML of your R Markdown document.
 
@@ -62,9 +62,9 @@ In your R Markdown document, an H1 header (`#`) can be used to demarcate this ne
 
 #### The Analysis
 
-After introducing the motivation for your project and the data you'll be using, you'll want to **describe your approach**. 
+After introducing the motivation for your project and the data you'll be using, you'll want to **describe your approach**.
 
-This section should explain what **methods** you'll be using to analyze your data (including **references to any methods used** - details below on how to do that!). 
+This section should explain what **methods** you'll be using to analyze your data (including **references to any methods used** - details below on how to do that!).
 
 If the introduction section answered *why* you're writing this report, this section should answer *how?* and *what?*. *How* did you analyze these data? *What* methods did you use?
 
@@ -82,13 +82,13 @@ As above, different parts of your analysis should be separated by different head
 
 #### The Results
 
-After describing how you've analyzed the data, it's important to **describe the results** from your analysis and **explain them**. Simply putting tables and figures in this section is *not* enough. Explanations to guide the reader and help them understand the results in this section are required. 
+After describing how you've analyzed the data, it's important to **describe the results** from your analysis and **explain them**. Simply putting tables and figures in this section is *not* enough. Explanations to guide the reader and help them understand the results in this section are required.
 
-A reminder that all results that for every numeric estimate reported, there should be a corresponding **measurement of uncertainty** included. 
+A reminder that all results that for every numeric estimate reported, there should be a corresponding **measurement of uncertainty** included.
 
-And, for every plot, best practices should be followed. These were discussed previously in the data visualization course, but as a general reminder here: 
+And, for every plot, best practices should be followed. These were discussed previously in the data visualization course, but as a general reminder here:
 
-* colors used on any plot should be distinct from one another 
+* colors used on any plot should be distinct from one another
 * colors should be chosen such that figures are interpretable by individuals who are color-blind
 * all axes and text on figures should be large enough
 * the appropriate plot for your data should be used  
@@ -114,7 +114,7 @@ After discussing how you analyzed the data and proving readers with the results 
 
 Typically, figures and tables are not included in this section. Bullet points can be used to make your points stand out in this section.
 
-Be sure not to make this section any longer than is absolutely necessary. 
+Be sure not to make this section any longer than is absolutely necessary.
 
 {format: png}
 ![Conclusion section should summarize the most important points from your analysis](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_37)
@@ -134,7 +134,7 @@ For example, if we mentioned in our report that "All analyses were carried out i
 
 ##### References
 
-However, when linking to scholarly articles, the best approach is to use an external bibliography that will automatically populate the references used in your analysis and include them in your report. We'll walk through how to do that now! 
+However, when linking to scholarly articles, the best approach is to use an external bibliography that will automatically populate the references used in your analysis and include them in your report. We'll walk through how to do that now!
 
 For example, consider our general report where within the Data Analysis header of our Methods portion we stat that "We've used `ggplot2` to generate all figures in this report." In that case, we'd want to include a reference to `ggplot2`!
 
@@ -151,7 +151,7 @@ When we searched, the first link references the ggplot2 book. This is the refere
 {format: png}
 ![Click on the Favorites (star) icon](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_111)
 
-You can then go to your library by clicking on "My library" in the top right-hand corner. 
+You can then go to your library by clicking on "My library" in the top right-hand corner.
 
 {format: png}
 ![Click on "My library"](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_123)
@@ -212,12 +212,12 @@ While there are a lot of steps in this process, it's important to include refere
 
 ### What to Avoid
 
-Now that we've discussed what to include in your data science reports, let's briefly discuss what you should avoid. 
+Now that we've discussed what to include in your data science reports, let's briefly discuss what you should avoid.
 
 In generating data science reports, you should avoid:
 
 - **explaining every single analysis you tried** - only include the necessary analysis and results
-- **being too wordy** - keep it simple and concise. Avoid unnecessarily long sentences. Be clear in your explanations. 
+- **being too wordy** - keep it simple and concise. Avoid unnecessarily long sentences. Be clear in your explanations.
 - **using the wrong type of plot** -- If your data are looking at the relationship between two numeric variables, consider a scatterplot. If you're comparing values between five different groups, use a barplot (not a pie chart). Be sure you're appropriately representing your data.
 - **presenting bad figures** - consider the colors, be consistent with them throughout your presentation, and make sure all text on figures is large enough
 - **using gratuitous flourishes** - 3D figures may look cool to some, but they can often be hard to interpret. Use faceting to avoid unnecessary 3D figures. Make sure anything you add to your plots helps the reader understand your analysis and does not detract from it.
@@ -237,7 +237,7 @@ To understand exactly what a brief report is, let's return to a data set with wh
 
 > How do Americans prefer their steak to be prepared?
 
-In this example, you see the R Markdown document on the left and then, once we knit the R Markdown document, the brief report that could be shared with others on the right. 
+In this example, you see the R Markdown document on the left and then, once we knit the R Markdown document, the brief report that could be shared with others on the right.
 
 Specifically we see that, the report itself is pretty short, that only the necessary details are presented, and that everything the reader needs to know is presented clearly. For the purposes of this example there weren't many details in the means of what we did for the analysis in total; however, for most projects you will likely have a slightly longer analysis or fewer results.
 
@@ -246,9 +246,9 @@ Specifically we see that, the report itself is pretty short, that only the neces
 
 ### Full Report
 
-Alternatively, a full report would include the in-depth details of your analysis. This would include details about the data used, a longer explanation of your analytic approach, and the code used to generate your results. A few more figures and tables would likely be included in the results section of a full report. 
+Alternatively, a full report would include the in-depth details of your analysis. This would include details about the data used, a longer explanation of your analytic approach, and the code used to generate your results. A few more figures and tables would likely be included in the results section of a full report.
 
-Again, just like a brief report, data science reports should always tell a story. The motivation behind the report, the analysis that was done, and the conclusions drawn should always be included. 
+Again, just like a brief report, data science reports should always tell a story. The motivation behind the report, the analysis that was done, and the conclusions drawn should always be included.
 
 #### Sample Full Report
 
@@ -261,7 +261,7 @@ While this analysis is simpler than most analyses you'll likely be doing, we're 
 
 Note: The code used to generate these reports can be viewed on RStudio Cloud [here](https://rstudio.cloud/spaces/2721/join?access_code=FJyfB5pL5GXnYTuRjFJD5BO5prpfPiMSf3%2F7OfO3).
 
-### Summary 
+### Summary
 
 In this lesson we've discussed what should be included in all reports and what should generally be avoided. We've described how to generate reports in R Markdown. And we've discussed brief reports (also known as executive summaries) and full reports as well as the differences between the two. As a data scientist, you'll likely have to generate reports throughout your career, and now you have a good baseline from which to start!
 
@@ -278,60 +278,3 @@ In this lesson we've discussed what should be included in all reports and what s
 ![Data Science Reports](https://www.youtube.com/watch?v=A3RZ43qYdbs)
 
 * [Slides](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/edit?usp=sharing)
-
-
-{quiz, id: quiz_01_reports}
-
-### Data Science Reports quiz
-
-{choose-answers: 4}
-? When writing a reproducible report that includes Markdown syntax and chunks of R code, what would be the file extension of your report?
-
-C) .Rmd
-o) .R
-o) .r
-o) .rda
-o) .rds
-o) .Rproj
-o) .ro
-o) .csv
-
-{choose-answers: 4}
-? Which of these does not have to tell a story?
-
-C) an e-mail
-C) a Slack message
-C) a phone call
-o) a brief report
-o) a full report
-o) a data science report
-o) a presentation
-
-{choose-answers: 4}
-? What should you avoid when generating a report?
-
-C) bad figures
-C) writing confusing sentences
-C) unclear figures
-C) figures with super small font
-C) figures with poor color choices
-o) clear, concise language
-o) well thought-out figures
-o) using a good title
-o) including the right amount of detail
-o) including a beginning, middle, and end
-
-{choose-answers: 4}
-? What is one reason to include references in your reports?
-
-C) You'll know where to look in the future to quickly find the information you found previously.
-C) They help others know where to look to learn more about a topic.
-C) They give credit to others' work!
-o) They help improve the design of your figures.
-o) You'll know whether or not your grammar is correct by using them
-o) They allow for spell check throughout your reports
-o) They help summarize the main points of your report.
-
-
-{/quiz}
-

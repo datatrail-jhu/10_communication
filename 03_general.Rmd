@@ -54,9 +54,9 @@ IF we were to summarize this graphically, where the size of each box is relative
 
 Remember, your audience will be hearing a lot of this information for the first time. There is only so much any individual can learn at once! Because of this, be sure to **focus on the introduction**, including the question you asked and the necessary background information. While you will certainly provide your audience with what you did and what you found, you will keep the details here to a minimum. Avoid including details about things that confused you along the way. Then, in your conclusion, remind your audience of your conclusions and provide them with the most important message they should take away from your presentation.
 
-### General Presentation Example 
+### General Presentation Example
 
-To discuss giving presentations to a general audience using a specific example, we're going to walk through a presentation that was given to a general audience. The audience for this presentation was college students  with a year  of calculus  but no particular  background in statistics. This means that any statistical concepts would have to be explained, but it could be assumed that the audience was fairly analytical. The slides for this talk can be viewed [here](https://docs.google.com/presentation/d/1AslQFsTHIz4R50KSDuzQtu75AlofrtCD1ZH80lp5k3A/edit?usp=sharing). The title of this talk was "Upcycling genomics data: From publicly-available 'junk' to priceless 'treasure'." 
+To discuss giving presentations to a general audience using a specific example, we're going to walk through a presentation that was given to a general audience. The audience for this presentation was college students  with a year  of calculus  but no particular  background in statistics. This means that any statistical concepts would have to be explained, but it could be assumed that the audience was fairly analytical. The slides for this talk can be viewed [here](https://docs.google.com/presentation/d/1AslQFsTHIz4R50KSDuzQtu75AlofrtCD1ZH80lp5k3A/edit?usp=sharing). The title of this talk was "Upcycling genomics data: From publicly-available 'junk' to priceless 'treasure'."
 
 The outline of this presentation was as follows:
 
@@ -66,7 +66,7 @@ The outline of this presentation was as follows:
 - Part 3: application
 - Conclusion
 
-Click on [this link](https://docs.google.com/presentation/d/1AslQFsTHIz4R50KSDuzQtu75AlofrtCD1ZH80lp5k3A/edit?usp=sharing) and scroll through the slides to get an idea of what the presentation looked like (Additionally, a quiz question for this lesson will require you to open this link, so it's best to just take a look now!). The content of the talk is not what we'll be focusing on, so it doesn't actually matter if you look at these slides and understand what they're talking about. Rather, in this lesson, we're going to walk through how this presentation was organized and designed to focus on a general audience. 
+Click on [this link](https://docs.google.com/presentation/d/1AslQFsTHIz4R50KSDuzQtu75AlofrtCD1ZH80lp5k3A/edit?usp=sharing) and scroll through the slides to get an idea of what the presentation looked like (Additionally, a quiz question for this lesson will require you to open this link, so it's best to just take a look now!). The content of the talk is not what we'll be focusing on, so it doesn't actually matter if you look at these slides and understand what they're talking about. Rather, in this lesson, we're going to walk through how this presentation was organized and designed to focus on a general audience.
 
 In the next lesson, we'll walk through the slides for a talk on the exact same topic, that that was designed and presented to a technical audience.
 
@@ -134,7 +134,7 @@ However, if we consider background, teaching, and explaining the approach, we se
 
 This makes sense, because, as you'll remember, the goal of a general audience presentation is to teach your audience what you did. It's not about the nitty gritty details. Instead, you want to present information at a high level.
 
-Here, we've presented an example of one presentation. This is to describe how presenting to a general audience *can* be done. This does *not* mean that every time you present to a general audience, exactly 30% of your time should be spent on background. Rather, this is to give you an idea of how to approach a general audience presentation. 
+Here, we've presented an example of one presentation. This is to describe how presenting to a general audience *can* be done. This does *not* mean that every time you present to a general audience, exactly 30% of your time should be spent on background. Rather, this is to give you an idea of how to approach a general audience presentation.
 
 ### Summary
 
@@ -147,48 +147,3 @@ In this lesson we discussed the approach to and specifics of presenting to a gen
 ![How To Present to a General Audience](https://www.youtube.com/watch?v=LzaYhyKbu8c)
 
 * [Slides](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/edit?usp=sharing)
-
-
-{quiz, id: quiz_03_general}
-
-### How To Present to a General Audience quiz
-
-{choose-answers: 4}
-? On the general audience presentation slides (found [here](http://bit.ly/general_audience)){target="_blank"}, on slide 134, which of these is one of the terms on this outline slide?
-
-C) "Useful for future study"
-C) "Easy to Get" 
-C) "Comprehensive"
-o) "Simple to Download"
-o) "Understandable"
-o) "Detail-oriented"
-o) "Fully-reproducible"
-o) "Data Visualization"
-o) "R Programming Language"
-
-{choose-answers: 4}
-? When presenting to a general audience, what would be the best approach for explaining the analysis you've done?
-
-C) Explain, but at a high level
-C) Include it in your presentation, but don't go into nitty-gritty details
-C) Discuss the analysis, but with limited details included
-o) Don't include in your presentation as to not confuse your audience 
-o) Don't include in your presentation because other information is more important
-o) Include a slide but don't actually talk about it
-o) Talk about it, but don't put any information on your slide
-o) Don't include it, but expect the audience to ask a question about it
-
-{choose-answers: 4}
-? Which of the following should you be sure to do when presenting to a general audience?
-
-C) Include a conclusion slide letting the audience know what the take-home message is
-C) Wrap up your presentation at the end by letting your audience know what they should take away from this presentation
-o) Discuss the most important topic at the end, even if it fits better elsewhere in your story
-o) Skip outline slides -- there's a lot to cover and you don't want to waste time on an outline
-o) Jump right into the analysis, since you have a time limit
-o) Take as much time as you need to explain the topics, no matter what time limit you've been given
-o) Assume that everyone knows as much as you do and limit your explanations
-o) Use big words and jargon to show how smart you are
-
-{/quiz}
-

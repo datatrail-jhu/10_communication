@@ -17,12 +17,12 @@ For a technical audience presentation, you're still telling a story, but the org
 
 
 ### Emphasize
- 
+
 While you will certainly still provide your audience with the question you're asking and important background information, the emphasis of your technical talk will be on the middle portion, where you'll describe in detail what you did and what your findings are.
 
 Thus, you'll want to provide your audience with:
 
-* a detailed summary of the data (descriptive + exploratory analysis) 
+* a detailed summary of the data (descriptive + exploratory analysis)
 * what you did (with concrete details)
 * what you found (with multiple figures discussing results)
 * discussion of the analysis
@@ -42,12 +42,12 @@ Finally, you'll again want to wrap up your presentation with a conclusion slide.
 
 In a technical talk, it's ok to de-emphasize discussing background information that is shared by everyone in the room. For example, if you're meeting with other team members who are all working on a similar project, you can likely just refer to the project you'll be discussing to get everyone on the same page and can leave out the rest of the background information about the project, since everyone in the room is already familiar with that information.
 
-All that said, while it's still certainly important to provide your audience with some Introduction and Background information, in a presentation to a technical audience, the bulk of your time and focus should be spent discussing the details of the analysis and its results. 
+All that said, while it's still certainly important to provide your audience with some Introduction and Background information, in a presentation to a technical audience, the bulk of your time and focus should be spent discussing the details of the analysis and its results.
 
 {format: png}
 ![Technical Talk Breakdown](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_0)
 
-### Technical Presentation Example 
+### Technical Presentation Example
 
 Like in the last lesson, we're going to walk through a technical talk. The title of the technical talk we'll be discussing is "Improving the value of public data with recount2 and phenotype prediction" and the slides are viewable [here](bit.ly/technical_audience). Go to these slides now and scroll through them. Note the mathematical notation on slides 70 through 87 -- this level of detail was *not* included for the general audience (slides 96-110 [here for the general audience comparison(bit.ly/general_audience)]. There will again be a quiz question about these slides, so it's best to open it up and take a peak now. While the title and presentation details differ from the general audience presentation, the outline of the talk remains the same:
 
@@ -57,19 +57,19 @@ Like in the last lesson, we're going to walk through a technical talk. The title
 - Part 3: application
 - Conclusion
 
-We'll break down this talk in the same way that we did the general audience talk in the last lesson. 
+We'll break down this talk in the same way that we did the general audience talk in the last lesson.
 
 {format: png}
 ![Visual representation of technical presentation](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_192)
 
-As a reminder, each slide was assigned one of 7 categories: question, outline, background, approach, results, teaching, or conclusion. Each category was assigned a different color. (The colors are the same as in the previous lesson). All the way to the left represents the first slide in the presentation. All the way to the right represents the last slide. 
+As a reminder, each slide was assigned one of 7 categories: question, outline, background, approach, results, teaching, or conclusion. Each category was assigned a different color. (The colors are the same as in the previous lesson). All the way to the left represents the first slide in the presentation. All the way to the right represents the last slide.
 
-You'll first note that this presentation (like the general audience presentation) is motivated by a question, helping tie the story together. The presentation again begins with background. 
+You'll first note that this presentation (like the general audience presentation) is motivated by a question, helping tie the story together. The presentation again begins with background.
 
 {format: png}
 ![Presentation still begins with a motivating question and background information](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_699)
 
-However, what you'll notice is that this technical presentation is results and approach heavy. A fair amount of the presentation is dedicated to results. 
+However, what you'll notice is that this technical presentation is results and approach heavy. A fair amount of the presentation is dedicated to results.
 
 {format: png}
 ![Much of the presentation is results or approach](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_606)
@@ -83,14 +83,14 @@ To summarize this presentation, we can see that the bulk of the presentation is 
 
 ### General vs Technical
 
-In the last lesson in this course we visualized a general talk and here we've done the same for a technical talk. Each presentation was on the same topic. Thus, it would be beneficial to compare the two directly here. 
+In the last lesson in this course we visualized a general talk and here we've done the same for a technical talk. Each presentation was on the same topic. Thus, it would be beneficial to compare the two directly here.
 
 Here we see the general presentation visualized at the top and technical beneath it. The focus on teaching and approach in a general talk and the focus on approach and results in a technical talk becomes evident when compared on the same image.
 
 {format: png}
 ![General vs. Technical](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3f9d5b130f_0_25)
 
-To summarize this graphically, using the same bar plots, here we have the same categories we've looked at previously, but we see the results for each type of presentation. General talk is in green. Technical talk is in orange. When we focus on the results and teaching bars, we can see this general talk did a lot more teaching, while the technical talk focused more time presenting results. 
+To summarize this graphically, using the same bar plots, here we have the same categories we've looked at previously, but we see the results for each type of presentation. General talk is in green. Technical talk is in orange. When we focus on the results and teaching bars, we can see this general talk did a lot more teaching, while the technical talk focused more time presenting results.
 
 {format: png}
 ![Technical focused on results; General did more teaching](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/export/png?id=1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk&pageid=g3eb60054e7_0_188)
@@ -116,55 +116,3 @@ In this lesson we discussed the approach to and specifics of presenting to a tec
 ![How To Present to a Technical Audience](https://www.youtube.com/watch?v=niZ2fkeqwY4)
 
 * [Slides](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/edit?usp=sharing)
-
-
-{quiz, id: quiz_04_technical}
-
-### How To Present to a Technical Audience quiz
-
-
-{choose-answers: 4}
-? On the technical audience presentation slides (found [here](http://bit.ly/technical_audience)){target="_blank"}, on slide 146, what color was used for the comparison "NC vs. PC"?
-
-C) blue
-m) red
-o) green
-o) orange
-o) yellow
-o) violet
-o) gray
-o) black
-o) white
-
-{choose-answers: 4}
-? Which of the following is true for a technical audience presentation but *not* for a general audience presentation
-
-C) Include the details of your analysis and discuss your thoughts on the analysis
-C) Include a number of figures and plots to discuss your results in-depth with the audience
-o) Be sure to introduce topics and teach your audience about everything you are going to discuss
-o) Don't assume that the audience has experience analyzing data
-o) Your audience does not want to know the technical details of your presentation
-o) Outline slides should not be used
-o) Your presentation does not have to tell a story in a technical audience presentation
-
-{choose-answers: 4}
-? For a general OR technical presentation, which of the following is true?
-
-C) Figures should be clear, with large enough font and good colors
-C) Text should be large enough on every slide so everyone in the room can see it with ease
-C) The presentation should tell a story
-o) Information should only ever be presented at a high-level
-o) Color choice doesn't matter -- feel free to use whatever colors you like best
-o) Font size is a matter of personal preference -- use whatever size you like
-o) Your audience does not want to know technical details of your presentation
-o) Your audeince does not want to know about the math behind your analysis
-
-{points: 3}
-? Go to Google Slides and develop a presentation that you would present to a technical audience about your Final Project from the last course in this course series. Be sure your slides tell a story, that the number of words on each slide is limited, and that the figures use good colors and text size for presentation. **Paste the viewable link to your slides below**.
-
-
-! /(.+\/\/docs.google.com\/presentation.+)/i
-
-
-{/quiz}
-
