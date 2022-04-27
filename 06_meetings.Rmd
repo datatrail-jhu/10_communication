@@ -64,7 +64,7 @@ First, someone should be running the meeting. This does *not* mean that this per
 
 ##### Keep Minutes
 
-Someone should be responsbile of keeping notes during the meeting. All important information, decisions that were made, and tasks that were assigned should be recorded.
+Someone should be responsible of keeping notes during the meeting. All important information, decisions that were made, and tasks that were assigned should be recorded.
 
 ##### Meeting Expectations
 

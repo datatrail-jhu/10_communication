@@ -95,7 +95,7 @@ Congrats! You know have a Benchling account! You'll be brought to a screen where
 
 #### Create A Project
 
-You'll now set up your first **project**. In the last course you were working on the Final Project for this Course Set. In the next course, you'll be adding this project to your portfolio on your website. To do so, you'll want to record changes and updates you make to this project on Benchling. So, let's create a project called "CBDS: Final Project" now. Type that in the Project Title box now and click "Create Project"
+You'll now set up your first **project**. In the last course you were working on the Final Project for this Course Set. In the next course, you'll be adding this project to your portfolio on your website. To do so, you'll want to record changes and updates you make to this project on Benchling. So, let's create a project called "DataTrail: Final Project" now. Type that in the Project Title box now and click "Create Project"
 
 {format: png}
 ![Create Project](https://docs.google.com/presentation/d/1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA/export/png?id=1w3UMgvE-5As8xTybcEITs29UIllaMH8kCTzX0XeSRfA&pageid=g3fd086c2d1_0_32)
@@ -266,7 +266,7 @@ o) including hyperlinks in entries
 o) changing date on an entry
 o) deleting a post
 o) organizing by project
-o) including multiple entries withinin a project
+o) including multiple entries within a project
 
 
 {/quiz}

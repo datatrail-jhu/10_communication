@@ -200,7 +200,7 @@ In data analysis talks, it's often best to start with background information. Ju
 
 As discussed above with Lucy's presentation, in Julia's slides, she limits the amount of information she puts on any one slide, thus allowing the audience to listen to the words she's saying. And, she has text that's large enough and legible when projected.
 
-However, what's different about this presentation is how Julia presents her analyses. When presenting an analysis, it's generally best to first explain the approach and then present the results. For example, Julia uses TF-IDF to analzze text in Jane Austen's novels.
+However, what's different about this presentation is how Julia presents her analyses. When presenting an analysis, it's generally best to first explain the approach and then present the results. For example, Julia uses TF-IDF to analyze text in Jane Austen's novels.
 
 She first explains what TF-IDF is. She includes the bare minimum amount of information on her slide, so that her audience is only seeing what's necessary. Then, she verbally describes what TF-IDF is.
 
@@ -237,7 +237,7 @@ Additionally, we'll note that at around 17:45 in the presentation, Julia went to
 
 ### Summary
 
-In this lesson we've discussed the important pieces to designing and prsenting your data analysis project. Always be mindful of your audience, create good slides, and present your ideas clearly. Practicing your presentations will help, especially when you're first giving talks.
+In this lesson we've discussed the important pieces to designing and presenting your data analysis project. Always be mindful of your audience, create good slides, and present your ideas clearly. Practicing your presentations will help, especially when you're first giving talks.
 
 ### Additional Resources
 

@@ -122,7 +122,7 @@ Lastly, an outline was used throughout the presentation to remind the audience w
 {format: png}
 ![Outlines can help the audience](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_1178)
 
-When all was said and done, if we were to calculate the percent of slides dedicated to eacch of the categories, we would see that the category with the largest percent of time spent is background information, with 30% of the total slides being spend on it.
+When all was said and done, if we were to calculate the percent of slides dedicated to each of the categories, we would see that the category with the largest percent of time spent is background information, with 30% of the total slides being spend on it.
 
 {format: png}
 ![Categorical breakdown](https://docs.google.com/presentation/d/1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg/export/png?id=1DW4eO4oQ_0qhAXs0IB-FBp790qeM8gH3ZLq-z58jBYg&pageid=g3eb60191d5_0_6)
