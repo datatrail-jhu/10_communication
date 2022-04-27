@@ -57,6 +57,7 @@ png
 RMarkdown
 Rmd
 rstudio
+RStudio
 schoolers
 Silge
 Steph
