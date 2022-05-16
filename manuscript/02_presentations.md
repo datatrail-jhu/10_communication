@@ -10,7 +10,7 @@ This lesson will be focused on how to give effective slide presentations, like w
 
 Generally, there are three goals of any presentation. A good presentation should **inspire**, **educate**, and **entertain**. Those listening to your presentation should leave the room feeling like they learned something, with the urge to try something new, and having enjoyed learning whatever it is you presented. If those three goals are accomplished, you have without a doubt delivered a stellar presentation.
 
-{format: png}
+
 ![Presentation Goals](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_52)
 
 ### Know your Audience
@@ -31,7 +31,7 @@ With those goals and your audience in mind, you're ready to start considering *h
 
 When presenting, you're telling a story with and introduction, a middle, and an end. It's best to **outline your presentation before you start preparing slides**. This includes jotting down or at the very least thinking about what you'll convey to your audience and how you'll make it into a story. You may consider a number of questions: What story do you want to tell? What do you want to convey in your introduction? What pieces are necessary to the story to be included in the middle? What do you want your listeners to take away from your presentation? How will you include this information in your conclusion? All of these are good questions to consider when outlining your talk.
 
-{format: png}
+
 ![Outline your presentation](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_63)
 
 Finally, as Zach Holman explained in his [talk on talks](https://zachholman.com/talk/the-talk-on-talks/), the best talks are stories and the best stories use repetition. **It's ok to repeat important information to your audience**. Don't be afraid of repeating yourself to make a point clear to your listeners.
@@ -55,31 +55,31 @@ Do not try to cram all your ideas onto a single slide. And, everything you say d
 
 To convey textual information to your audience, choosing a good font is important. It's generally safe to **stick to Sans Serif font**. Sans Serif fonts can be searched through at [Google Fonts](https://fonts.google.com/). And, when in doubt, **Helvetica is a safe font choice**. Further, use consistent fonts throughout your talk. More than one font *can* be used to draw viewers attention to something, but typically there should be a consistent font used throughout the presentation.  Finally, as with most rules, there are exceptions, so take time deciding on what font looks best for each part of your presentation.
   
-{format: png}
+
 ![Choose Good Fonts](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_86)
 
 ##### Size
 
 Regardless of what font you choose for your text, your **text should be very large**. It's often argued that you should design your slides for the back of the room. 
 
-{format: png}
+
 ![Use Large Text](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_287)
 
 The same goes for images. There's no need to leave empty space on your slides around images. **Expand your images** to take up as much space on the slide as possible.
 
-{format: png}
+
 ![Expand Images](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_297)
 
 #### Colors 
 
 Finally, with regards to slide design, colors matter. Choosing a dark background (such as dark gray) means that your text should be light (maybe white). If your background is light, your text should be dark. Contrast will make it easier on your audience to read.
 
-{format: png}
+
 ![Choose Good Colors](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_307)
 
 Additionally, use color to focus on text you want your audience to focus in on. If all your text is white, highlight a few words in a brighter color to draw your listener's attention to what's important.
 
-{format: png}
+
 ![Highlighting Text](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_328)
 
 The same goes for figures and plots. All images should have colors that are viewable and distinguishable by every person in your audience. Consider color blindness. Consider colors that tend not to project well (such as yellows or light pastels). Then, design your slides using colors that will work for your audience.
@@ -88,7 +88,7 @@ The same goes for figures and plots. All images should have colors that are view
 
 Visually, things should be aligned. Center things in the middle of your slide. Make sure text boxes that should line up do line up. It may seem trivial, but it's important to line things up so viewers aren't distracted by something like alignment and can instead focus on your talk.
 
-{format: png}
+
 ![Prioritize alignment](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_339)
 
 ### Presenting
@@ -101,12 +101,12 @@ To avoid being boring during your talk, you can vary the speed and volume of you
 
 Finally, be yourself. If you naturally like to tell jokes, tell jokes during your presentation. If stories are more your style, work a story or two in. Ultimately, if you're not comfortable in front of your audience, check to make sure you're being true to who you are as an individual.
 
-{format: png}
+
 ![Presentation Tips](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_81)
 
 Finally, when presenting it's important to remember that **you've seen the data and figures you're presenting many times, but your audience has not**. They'll need time to get up to speed! Thus, it's important to always introduce your axes (tell your audience what is on the x-axis and what is on the y-axis), explain the colors on your plot, *and* walk the audience through the figure you're presenting.
 
-{format: png}
+
 ![Explain Your Figures](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g4039734916_0_0)
 
 ### Practice 
@@ -119,7 +119,7 @@ In addition to limiting your nerves, practicing will help you figure out the bes
 
 The further along you are in your career, the less you will likely have to practice before presentations. However, as you get started, practicing is the best preparation for giving a talk!
 
-{format: png}
+
 ![Practice. Practice. Practice.](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_351)
 
 #### Be Prepared
@@ -128,14 +128,14 @@ The day of your presentation, things may go wrong. Power goes out, projectors do
 
 To avoid any big issues, it's best to bring a copy of your talk on a USB drive, carry any adapters you may need should you have to (or choose to) present from your own computer. Don't expect the location to have the adapter you need. And, be sure your phone is on silent. After that, just roll with anything that goes wrong. The audience will be forgiving, as they all know that technology can sometimes act unexpectedly.
 
-{format: png}
+
 ![Prepare & then roll with the punches](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_364)
   
 ### Handling Questions  
 
 After your presentation, there may be time allotted for the audience to ask questions. When answering questions, always take a little bit of time to pause and think about the question before answering. In fact, it's often helpful to repeat the question asked of you back to the audience. This ensures that the entire room has heard the question and gives you some time to think. If you need more time, remember, silence is ok! Finally, if you don't know an answer, it's ok to say "I don't know." You should never make up an answer because you're afraid of saying "I don't know."
 
-{format: png}
+
 ![Q&A Tips](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_372)
 
 ### Example Presentation: APIs
@@ -150,7 +150,7 @@ In the introduction, Lucy expresses her excitement and gives her audience an out
 * How are APIs accessed from R
 * Case studies.
 
-{format: png}
+
 ![Outline slide](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e029efc87_0_29)
 
 We didn't discuss this above; however, a general rule of thumb is that **three main topics is about the most you should include in a talk**, as humans' attention spans are not very long. Lucy nailed this one with exactly three main topics to discuss, all of which tie together into a story about how to get information from Web APIs!
@@ -161,17 +161,17 @@ As Lucy dives into the content of her talk, she follows many of the best practic
 
 Lucy uses large fonts and colors that can be distinguished by anyone in the audience and that present well. As a result, everyone in the room, no matter where there seat was, was able to learn and be entertained.
 
-{format: png}
+
 ![API slide with large font and good colors](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g2bfdb07292_0_151)
 
 Additionally, Lucy uses effective highlighting of text using different colors. Here, the parts of the text that Lucy wants the audience to focus on are in a brighter blue and a brighter green! Also note that there is not a lot of blank space on the slides.
 
-{format: png}
+
 ![Text highlighting helps focus users' eyes on what's important](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e029efc87_0_6)
 
 Additionally, Lucy's slides guided what she was going to say but didn't include all the words on the slides. Here, we see large font and large images but no words. This allowed the audience to listen to what she was saying rather than read all the words on the slides! 
 
-{format: png}
+
 ![Limit words and allow the audience to listen](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e029efc87_0_19)
 
 #### Presentation
@@ -204,17 +204,17 @@ However, what's different about this presentation is how Julia presents her anal
 
 She first explains what TF-IDF is. She includes the bare minimum amount of information on her slide, so that her audience is only seeing what's necessary. Then, she verbally describes what TF-IDF is. 
 
-{format: png}
+
 ![TF-IDF slide](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_24)
 
 On subsequent slides she includes the code she used to run the analysis, discussing what is going on with the code on each slide and describing the output.
 
-{format: png}
+
 ![code to run TF-IDF](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_12)
 
 Finally, for each part of her analysis, she includes a visualization of the results. These figures have text large enough to be seen by all in the audience, are well-labeled, and include an informative title.
 
-{format: png}
+
 ![figures from analysis](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_5)
 
 Note that Julia does not go into every single detail of every analysis, nor just she talk about all the things she tried in a single presentation. She includes enough information so that her audience learns and can go try this type of analysis on their own, if they're interested! 
@@ -223,7 +223,7 @@ Note that Julia does not go into every single detail of every analysis, nor just
 
 Watching the [18 minute video](https://www.rstudio.com/resources/videos/text-mining-the-tidy-way/) will give you the best sense of how Julia presented the information in her `tidytext` presentation; however, we'll highlight a few things here. 
 
-{format: png}
+
 ![video for Julia's presentation](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_17)
 
 Julia spoke at a reasonable pace and clearly, keeping her audience interested. Additionally, she presented true to her personality. Julia and Lucy are two different people and that is clear in their presentation styles. Differences are wonderful and help keep presentations interesting! It would be boring if everyone were the same.
@@ -232,7 +232,7 @@ Additionally, Julia knew her audience. She knew that there would be many program
 
 Additionally, we'll note that at around 17:45 in the presentation, Julia went to show an image but it didn't immediately show up how she had intended. This is a great example of rolling with the punches. She didn't panic. She simply acknowledged that it didn't work the first time and tried again. The audience, of course, didn't mind, but when you're presenting, these small occurrences can feel like a big deal. When it happens to you in the future, know that things don't always work as anticipated and that this happens to everyone. If this happens to you, take a play out of Julia's book and simply acknowledge what happened, try again, and continue on!
 
-{format: png}
+
 ![Julia keeps her cool](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/export/png?id=1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg&pageid=g3e060237c1_0_39)
 
 ### Summary

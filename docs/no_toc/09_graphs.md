@@ -20,7 +20,7 @@ This said, regardless of how much time you spend on your figures, the data displ
 
 To be sure that your figures are not intentionally misleading, the guidelines we discussed in the Data Visualization course should be followed. For example, start your y-axis at zero as to not make differences between groups appear larger than they actually are and choose the appropriate graph given the data you have. We'll review exactly what types of graphs are appropriate for what types of data using this table:
 
-{format: png}
+
 ![when to use what graphs review](https://docs.google.com/presentation/d/16qKkr_KueZTfUV5tixIf9obFQ8swC5DwFG-l0_ruvSA/export/png?id=16qKkr_KueZTfUV5tixIf9obFQ8swC5DwFG-l0_ruvSA&pageid=g3fd067a809_0_0)
 
 In this table you can see a number of the most *common* types of graphs used to display data. These are by no means the *only* types of plots, but these are the plots you'll see and generate most frequently. We've broken the plots down by the  number of variables they display (one or two) and the type of variable they can be used to display (continuous or categorical). We also include what the goal of each plot type is, meaning what the visualization will show, the name of the plot type, a small example plot, and the `geom` you would specify within `ggplot2` to generate this type of figure.

@@ -44,7 +44,7 @@ On the other end of the spectrum, "Sample Genomic Data that Are Available Public
 
 In your your R Markdown document where you're writing your report, you'll want to include a helpful title. The title of your report can always be edited in the YAML of your R Markdown document.
 
-{format: png}
+
 ![Edit title within the YAML of your R Markdown document](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3a45d47478_0_33)
 
 #### The Introduction
@@ -57,7 +57,7 @@ Finally, this section should include a description of the dataset you're using. 
 
 In your R Markdown document, an H1 header (`#`) can be used to demarcate this new section. Then, Markdown format can be used to include all the necessary information in your Introduction.
 
-{format: png}
+
 ![A new section with an H1 header should be included for your Introduction](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_3)
 
 #### The Analysis
@@ -70,14 +70,14 @@ If the introduction section answered *why* you're writing this report, this sect
 
 In your R Markdown Document, this can be separated using a new H1 header. Throughout your report, additional subheadings can be demarcated using H2 (`##`) headers.
 
-{format: png}
+
 ![Multiple Parts of an analysis can be separated using H2 headers](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_10)
 
 Code to complete your analysis would be included here, if appropriate. Not everyone wants to look at the code you ran. For example, your manager may just want a summary of your analysis. In this case you wouldn't include all your code. However, a teammate may want to see all the details.
 
 As above, different parts of your analysis should be separated by different headers and separate code chunks for each part should be included. Text briefly explaining each what is being done in each code chunk should be included before each code chunk. Results from the code chunk can be explained with text after the code chunk and before the next section.
 
-{format: png}
+
 ![Code chunks can be included in your report](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_20)
 
 #### The Results
@@ -96,7 +96,7 @@ And, for every plot, best practices should be followed. These were discussed pre
 
 If you want to generate the plot in your R Markdown document (you want the code to be evaluated) but do not want the code *or* its output to be displayed, you would include `include=FALSE` in the code chunk. (Note that `results ="hide"` hides output but displays code, `echo=FALSE` does not show the code but does display any results or output, and `eval=FALSE` displays the code but doesn't actually evaluate it (does not run the code))
 
-{format: png}
+
 ![code chunk arguments summary](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_81)
 
 Tables of results would also be included in this section. Guidelines previously discussed for good tables should also be followed. To briefly summarize:
@@ -105,7 +105,7 @@ Tables of results would also be included in this section. Guidelines previously 
 * The number of digits displayed should be limited
 * Tables should be organized to help guide the viewer to see what is important
 
-{format: png}
+
 ![Including good figures and tables and helpful explanations in the results is critical](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_224)
 
 #### Conclusions
@@ -116,7 +116,7 @@ Typically, figures and tables are not included in this section. Bullet points ca
 
 Be sure not to make this section any longer than is absolutely necessary. 
 
-{format: png}
+
 ![Conclusion section should summarize the most important points from your analysis](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_37)
 
 #### References
@@ -129,7 +129,7 @@ At the very least, it's helpful to include hyperlinks in Markdown format to othe
 
 For example, if we mentioned in our report that "All analyses were carried out in R," we'd want to hyper link to the R Project's website, so that anyone unfamiliar with R could click on this link and learn more
 
-{format: png}
+
 ![Including hyperlinks in reports helps readers learn more and gives credit](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_102)
 
 ##### References
@@ -138,74 +138,74 @@ However, when linking to scholarly articles, the best approach is to use an exte
 
 For example, consider our general report where within the Data Analysis header of our Methods portion we stat that "We've used `ggplot2` to generate all figures in this report." In that case, we'd want to include a reference to `ggplot2`!
 
-{format: png}
+
 ![Where we want to include the reference in our report](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_86)
 
 To do so we'd first go to Google Scholar at [scholar.google.com](https://scholar.google.com). Google Scholar contains scholarly articles across many different fields. References to articles, theses, books, abstracts, and academic journals are all searchable on Google Scholar. In the search box type 'ggplot2' and then click the magnifying glass to search Google Scholar.
 
-{format: png}
+
 ![Search through Google Scholar](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_49)
 
 When we searched, the first link references the ggplot2 book. This is the reference we want to include in our R Markdown document. To do so, we'll first save it to our Google Scholar library by clicking on the "star" icon.
 
-{format: png}
+
 ![Click on the Favorites (star) icon](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_111)
 
 You can then go to your library by clicking on "My library" in the top right-hand corner. 
 
-{format: png}
+
 ![Click on "My library"](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_123)
 
 Any entries in your library will be listed here. Click on the references you'd like to include in your document using the checkmarks at left (here, we'll only select the `ggplot2` reference). Then click on the download icon and select "BibTeX" from the dropdown menu.
 
-{format: png}
+
 ![Download the citation](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_116)
 
 The citation(s) selected will then appear in a new window. Copy this text. Note that the first thing within the curly brackets is how we'll refer back to this later in our R Markdown document.
 
-{format: png}
+
 ![Copy text for BibTeX citation](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_145)
 
 Then, return to RStudio Cloud and click on "File" > "New File" > "Text File".
 
-{format: png}
+
 ![Open a new text file](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_151)
 
 We'll then want to save this file. Do this by clicking on "File" > "Save As"
 
-{format: png}
+
 ![Open Save as window](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_156)
 
 We'll save the file as "references.bib." Type that into the File name box. Then click "Save"
 
-{format: png}
+
 ![Save file with .bib extension](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_165)
 
 Once the file is saved, you'll want to paste in the reference text you previously copied and save the changes to this file.
 
-{format: png}
+
 ![add references to this .bib file](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_252)
 
 You'll then have to specify within your YAML (the top of your R Markdown document) what the name of your bibliography file is using the format you see here:
 
-{format: png}
+
 ![add bibliography to YAML](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_42)
 
 Note: The .bib file must be in the same directory as your .Rmd file.
 
 Now that our bibliography is set up, we'll add the reference into our document. References use the following format `[@identifier]` They always include square brackets. Within the brackets we specify that it is a reference using the `@` symbol, followed by the identifier specified within our .bib file. Here that identifier is `wickham2016ggplot2`.
 
-{format: png}
+
 ![In-line reference](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_184)
 
 To finalize this document, we'll want to include a header at the end of our R Markdown document, since any references will be automatically added to the end of the Knit document.
 
-{format: png}
+
 ![Add # References header to end of the R Markdown document](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_195)
 
 Now we're ready to Knit. When we Knit this document, we see our in-line citation and the reference automatically add to the end of the document!
 
-{format: png}
+
 ![Knit document shows reference automatically formatted and added](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_189)
 
 While there are a lot of steps in this process, it's important to include references to others' work when applicable and this process will get simpler the more you do it!
@@ -241,7 +241,7 @@ In this example, you see the R Markdown document on the left and then, once we k
 
 Specifically we see that, the report itself is pretty short, that only the necessary details are presented, and that everything the reader needs to know is presented clearly. For the purposes of this example there weren't many details in the means of what we did for the analysis in total; however, for most projects you will likely have a slightly longer analysis or fewer results.
 
-{format: png}
+
 ![Brief Reports present readers with only the essential information](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_58)
 
 ### Full Report
@@ -256,7 +256,7 @@ Returning to the steak preference data and the question "How do Americans prefer
 
 While this analysis is simpler than most analyses you'll likely be doing, we're using it as an example to demonstrate that a full report will likely have more explanation and more details than a brief report. There will be more description regarding how the analysis was carried out and likely more tables and figures. Here, we see the full report is similar but goes into more detail and presents more results than the brief report
 
-{format: png}
+
 ![Full reports contain more details but still tell a story](https://docs.google.com/presentation/d/1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A/export/png?id=1PNjgIQasekfNYkeEFj81LtsodKA4Yj2iKUCLjEcPO2A&pageid=g3d92f6b52e_0_70)
 
 Note: The code used to generate these reports can be viewed on RStudio Cloud [here](https://rstudio.cloud/spaces/2721/join?access_code=FJyfB5pL5GXnYTuRjFJD5BO5prpfPiMSf3%2F7OfO3).

@@ -18,7 +18,7 @@ When it comes to meetings:
 
 While some of these may seem obvious, it can be hard to be a good citizen within a meeting. If you're less experienced, speaking up may be intimidating so you may be more likely to ramble on when called upon. If you're more experienced, you may be quick to notice errors others have made because of your experience. In each case, it's important to remember these guidelines so that meetings do not become things that neither you nor your team members want to attend.
 
-{format: png}
+
 ![Meeting Dos and Don'ts](https://docs.google.com/presentation/d/16yj4ui-329oiX0Fqk4hZemEx-lw0Z3sw7xPx4hEvh0M/export/png?id=16yj4ui-329oiX0Fqk4hZemEx-lw0Z3sw7xPx4hEvh0M&pageid=g2bfdb07292_0_151)
 
 ### How to Host A Meeting
