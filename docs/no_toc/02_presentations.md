@@ -257,6 +257,6 @@ In this lesson we've discussed the important pieces to designing and presenting 
 
 ### Slides and Video
 
-![How To Give a Presentation](https://www.youtube.com/watch?v=H3mogwsaU-M)
+[Automated Videos](https://www.youtube.com/watch?v=H3mogwsaU-M)
 
 * [Slides](https://docs.google.com/presentation/d/1SNcN3sJoZ7i7zXieS5MTRpzrgEi_RFInFp9teYFqpIg/edit?usp=sharing)
