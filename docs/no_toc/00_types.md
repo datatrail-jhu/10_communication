@@ -43,6 +43,6 @@ Data scientists often find them in a number of meetings. Meetings can be with te
 
 ### Slides and Video
 
-![Types of Communication](https://www.youtube.com/watch?v=m0Bg-d2Mmhg)
+[Automated Videos](https://www.youtube.com/watch?v=m0Bg-d2Mmhg)
 
 * [Slides](https://docs.google.com/presentation/d/1HvmiB65ol1EILnxPs2M0xItSDOK5WIUkGcXJxaQHAOw/edit?usp=sharing)
