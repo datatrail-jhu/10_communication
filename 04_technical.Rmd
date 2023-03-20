@@ -113,6 +113,6 @@ In this lesson we discussed the approach to and specifics of presenting to a tec
 
 ### Slides and Video
 
-![How To Present to a Technical Audience](https://www.youtube.com/watch?v=niZ2fkeqwY4)
+[Automated Videos](https://www.youtube.com/watch?v=niZ2fkeqwY4)
 
 * [Slides](https://docs.google.com/presentation/d/1EromtzNJS1mzKLOHzV4Cwes4XhrMR23dMXtjqOCUVzk/edit?usp=sharing)
